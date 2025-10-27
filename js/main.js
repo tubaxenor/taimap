@@ -144,8 +144,11 @@ async function loadCategory(category) {
 
 // GPS Location Functions
 function getCurrentLocation() {
+    console.log('Getting current location...');
+    
     if (!navigator.geolocation) {
         locationStatus.textContent = '您的瀏覽器不支援 GPS 定位功能';
+        console.error('Geolocation not supported');
         return;
     }
 
@@ -153,46 +156,67 @@ function getCurrentLocation() {
     locationBtn.textContent = '📍 定位中...';
     locationStatus.textContent = '正在取得您的位置...';
 
+    const options = {
+        enableHighAccuracy: true,
+        timeout: 15000,
+        maximumAge: 300000 // 5 minutes
+    };
+
     navigator.geolocation.getCurrentPosition(
         (position) => {
+            console.log('Position obtained:', position);
             userLocation = {
                 lat: position.coords.latitude,
                 lng: position.coords.longitude
             };
             
+            // Center map on user location
+            map.setView([userLocation.lat, userLocation.lng], 13);
+            
             locationStatus.textContent = '位置已取得！正在尋找最近的地點...';
+            console.log('User location:', userLocation);
             findNearestLocations();
         },
         (error) => {
+            console.error('Geolocation error:', error);
             locationBtn.disabled = false;
             locationBtn.textContent = '📍 找到我附近的地點';
             
+            let errorMessage = '定位時發生錯誤';
             switch(error.code) {
                 case error.PERMISSION_DENIED:
-                    locationStatus.textContent = '位置存取被拒絕，請允許位置權限';
+                    errorMessage = '位置存取被拒絕，請允許位置權限';
                     break;
                 case error.POSITION_UNAVAILABLE:
-                    locationStatus.textContent = '位置資訊無法取得';
+                    errorMessage = '位置資訊無法取得，請檢查 GPS 設定';
                     break;
                 case error.TIMEOUT:
-                    locationStatus.textContent = '定位請求逾時';
+                    errorMessage = '定位請求逾時，請重試';
                     break;
                 default:
-                    locationStatus.textContent = '定位時發生未知錯誤';
+                    errorMessage = '定位時發生未知錯誤';
                     break;
             }
+            locationStatus.textContent = errorMessage;
         },
-        {
-            enableHighAccuracy: true,
-            timeout: 10000,
-            maximumAge: 300000 // 5 minutes
-        }
+        options
     );
 }
 
 function findNearestLocations() {
-    if (!userLocation || currentData.length === 0) {
-        locationStatus.textContent = '無法計算距離：缺少位置或資料';
+    console.log('Finding nearest locations...');
+    console.log('User location:', userLocation);
+    console.log('Current data length:', currentData.length);
+    
+    if (!userLocation) {
+        locationStatus.textContent = '無法計算距離：缺少用戶位置';
+        locationBtn.disabled = false;
+        locationBtn.textContent = '📍 找到我附近的地點';
+        return;
+    }
+    
+    if (!currentData || currentData.length === 0) {
+        locationStatus.textContent = '無法計算距離：缺少地點資料';
         locationBtn.disabled = false;
         locationBtn.textContent = '📍 找到我附近的地點';
         return;
@@ -200,11 +224,14 @@ function findNearestLocations() {
 
     // Calculate distances for all locations
     const locationsWithDistance = currentData.map(location => {
-        if (!location.latitude || !location.longitude) return null;
+        if (!location.latitude || !location.longitude || 
+            isNaN(location.latitude) || isNaN(location.longitude)) {
+            return null;
+        }
         
         const distance = calculateDistance(
             userLocation.lat, userLocation.lng,
-            location.latitude, location.longitude
+            parseFloat(location.latitude), parseFloat(location.longitude)
         );
         
         return {
@@ -213,10 +240,14 @@ function findNearestLocations() {
         };
     }).filter(location => location !== null);
 
+    console.log('Locations with distance:', locationsWithDistance.length);
+
     // Sort by distance and get top 5
     const nearestLocations = locationsWithDistance
         .sort((a, b) => a.distance - b.distance)
         .slice(0, 5);
+
+    console.log('Nearest locations:', nearestLocations);
 
     // Update display
     displayNearestLocations(nearestLocations);
@@ -239,20 +270,26 @@ function calculateDistance(lat1, lon1, lat2, lon2) {
 }
 
 function displayNearestLocations(nearestLocations) {
+    console.log('Displaying nearest locations:', nearestLocations);
+    
     // Clear existing markers
     markers.forEach(marker => map.removeLayer(marker));
     markers = [];
 
-    // Add user location marker
+    // Add user location marker with custom icon
     if (userLocation) {
+        const userIcon = L.divIcon({
+            className: 'user-location-marker',
+            html: '<div style="background-color: #e74c3c; color: white; border-radius: 50%; width: 30px; height: 30px; display: flex; align-items: center; justify-content: center; font-size: 16px; border: 3px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);">📍</div>',
+            iconSize: [30, 30],
+            iconAnchor: [15, 15]
+        });
+        
         const userMarker = L.marker([userLocation.lat, userLocation.lng], {
-            icon: L.divIcon({
-                className: 'user-location-marker',
-                html: '📍',
-                iconSize: [30, 30],
-                iconAnchor: [15, 15]
-            })
+            icon: userIcon
         }).addTo(map);
+        
+        userMarker.bindPopup('<div><h3>您的位置</h3><p>📍 這裡是您目前的位置</p></div>');
         markers.push(userMarker);
     }
 
@@ -262,12 +299,12 @@ function displayNearestLocations(nearestLocations) {
         
         // Add popup with distance
         marker.bindPopup(`
-            <div>
-                <h3>${location.name}</h3>
-                <p><strong>距離:</strong> ${location.distance.toFixed(2)} 公里</p>
-                <p><strong>類別:</strong> ${location.category}</p>
-                <p><strong>地址:</strong> ${location.address}</p>
-                <p><strong>評價:</strong> ${location.rating}星 (${location.reviews}則評論)</p>
+            <div style="min-width: 200px;">
+                <h3 style="margin: 0 0 10px 0; color: #2c3e50;">${location.name}</h3>
+                <p style="margin: 5px 0; color: #e74c3c; font-weight: bold;">📍 距離: ${location.distance.toFixed(2)} 公里</p>
+                <p style="margin: 5px 0;"><strong>類別:</strong> ${location.category}</p>
+                <p style="margin: 5px 0;"><strong>地址:</strong> ${location.address}</p>
+                <p style="margin: 5px 0;"><strong>評價:</strong> ${location.rating}星 (${location.reviews}則評論)</p>
             </div>
         `);
         
@@ -281,10 +318,10 @@ function displayNearestLocations(nearestLocations) {
     // Update count
     locationCount.textContent = `顯示最近 ${nearestLocations.length} 個地點`;
 
-    // Fit map to show all markers
+    // Fit map to show all markers with padding
     if (nearestLocations.length > 0) {
         const group = new L.featureGroup(markers);
-        map.fitBounds(group.getBounds().pad(0.1));
+        map.fitBounds(group.getBounds().pad(0.2));
     }
 }
 
@@ -308,5 +345,37 @@ function updateNearestLocationList(nearestLocations) {
     });
 }
 
+// Auto-detect location on page load (optional)
+function tryAutoLocation() {
+    if (navigator.geolocation) {
+        console.log('Attempting auto-location...');
+        navigator.geolocation.getCurrentPosition(
+            (position) => {
+                console.log('Auto-location successful:', position);
+                userLocation = {
+                    lat: position.coords.latitude,
+                    lng: position.coords.longitude
+                };
+                // Center map on user location
+                map.setView([userLocation.lat, userLocation.lng], 13);
+                locationStatus.textContent = '已自動定位到您的位置';
+            },
+            (error) => {
+                console.log('Auto-location failed:', error);
+                // Keep default Taiwan view
+                locationStatus.textContent = '點擊按鈕手動定位';
+            },
+            {
+                enableHighAccuracy: false,
+                timeout: 5000,
+                maximumAge: 300000
+            }
+        );
+    }
+}
+
 // Load default category
 loadCategory('台派');
+
+// Try to auto-detect location after a short delay
+setTimeout(tryAutoLocation, 1000);
