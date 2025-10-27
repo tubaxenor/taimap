@@ -5,7 +5,7 @@
   notes: 草系風格咖啡廳，使用有機咖啡豆
   recommender: ''
   search_link: >-
-    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m3!11m2!2sGtRkWPp6RAGC5P3CfdQtCQ!3e3?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
   address: 信義區信義路五段7號
   rating: '4.5'
   reviews: '120'
@@ -16,75 +16,3 @@
     備註: 草系風格咖啡廳，使用有機咖啡豆
     地址: 信義區信義路五段7號
     評價: 4.5星 (120則評論)
-- name: 綠色生活館
-  city: 台北市
-  district: 大安區
-  category: 生活用品
-  notes: 環保生活用品專賣，推廣永續生活
-  recommender: ''
-  search_link: >-
-    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m3!11m2!2sGtRkWPp6RAGC5P3CfdQtCQ!3e3?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 大安區敦化南路二段216號
-  rating: '4.2'
-  reviews: '85'
-  latitude: 25.026
-  longitude: 121.543
-  description: |-
-    綠色生活館 - 生活用品
-    備註: 環保生活用品專賣，推廣永續生活
-    地址: 大安區敦化南路二段216號
-    評價: 4.2星 (85則評論)
-- name: 自然風餐廳
-  city: 台北市
-  district: 中山區
-  category: 餐廳
-  notes: 有機食材餐廳，提供健康餐點
-  recommender: ''
-  search_link: >-
-    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m3!11m2!2sGtRkWPp6RAGC5P3CfdQtCQ!3e3?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 中山區南京東路二段118號
-  rating: '4.7'
-  reviews: '156'
-  latitude: 25.052
-  longitude: 121.528
-  description: |-
-    自然風餐廳 - 餐廳
-    備註: 有機食材餐廳，提供健康餐點
-    地址: 中山區南京東路二段118號
-    評價: 4.7星 (156則評論)
-- name: 植栽工作室
-  city: 台北市
-  district: 松山區
-  category: 植物店
-  notes: 專業植栽設計與販售
-  recommender: ''
-  search_link: >-
-    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m3!11m2!2sGtRkWPp6RAGC5P3CfdQtCQ!3e3?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 松山區民生東路四段56號
-  rating: '4.8'
-  reviews: '92'
-  latitude: 25.058
-  longitude: 121.555
-  description: |-
-    植栽工作室 - 植物店
-    備註: 專業植栽設計與販售
-    地址: 松山區民生東路四段56號
-    評價: 4.8星 (92則評論)
-- name: 有機農場直營店
-  city: 台北市
-  district: 內湖區
-  category: 農產品
-  notes: 直接從農場到餐桌，新鮮有機蔬果
-  recommender: ''
-  search_link: >-
-    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m3!11m2!2sGtRkWPp6RAGC5P3CfdQtCQ!3e3?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 內湖區成功路四段188號
-  rating: '4.6'
-  reviews: '203'
-  latitude: 25.068
-  longitude: 121.588
-  description: |-
-    有機農場直營店 - 農產品
-    備註: 直接從農場到餐桌，新鮮有機蔬果
-    地址: 內湖區成功路四段188號
-    評價: 4.6星 (203則評論)
