@@ -1,112 +1,544 @@
 - name: 美式餐酒館
   city: 台北市
-  district: 大安區
-  category: 咖啡廳
-  notes: 草系風格店家，提供優質服務
-  recommender: ''
-  search_link: >-
-    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 台北市大安區敦化南路二段216號
-  rating: '4.4'
-  reviews: '191'
-  latitude: 25.0708215428643
-  longitude: 121.5686096219454
-  description: |-
-    美式餐酒館 - 咖啡廳
-    備註: 草系風格店家，提供優質服務
-    地址: 台北市大安區敦化南路二段216號
-    評價: 4.4星 (191則評論)
-- name: 台北敦化店
-  city: 台北市
   district: 信義區
   category: 餐廳
   notes: 草系風格店家，提供優質服務
   recommender: ''
   search_link: >-
     https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 台北市信義區信義路五段7號
-  rating: '4.3'
-  reviews: '151'
-  latitude: 25.0502839673708
-  longitude: 121.54886895334168
+  address: 台北市信義區信義路5段130號
+  rating: '4.4'
+  reviews: '81'
+  latitude: 25.004237019049874
+  longitude: 121.59128088891651
   description: |-
-    台北敦化店 - 餐廳
+    美式餐酒館 - 餐廳
     備註: 草系風格店家，提供優質服務
-    地址: 台北市信義區信義路五段7號
-    評價: 4.3星 (151則評論)
-- name: 大安區美食餐酒館
-  city: 台北市
-  district: 中山區
-  category: 餐酒館
+    地址: 台北市信義區信義路5段130號
+    評價: 4.4星 (81則評論)
+- name: 台北敦化店
+  city: 新北市
+  district: 三重區
+  category: 草系店家
   notes: 草系風格店家，提供優質服務
   recommender: ''
   search_link: >-
     https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 台北市中山區南京東路二段118號
-  rating: '4.7'
-  reviews: '58'
-  latitude: 25.008767368881877
-  longitude: 121.56313466259986
+  address: 新北市三重區敦化南路5段85號
+  rating: '4.5'
+  reviews: '241'
+  latitude: 25.039319941508055
+  longitude: 121.50666558177304
   description: |-
-    大安區美食餐酒館 - 餐酒館
+    台北敦化店 - 草系店家
     備註: 草系風格店家，提供優質服務
-    地址: 台北市中山區南京東路二段118號
-    評價: 4.7星 (58則評論)
+    地址: 新北市三重區敦化南路5段85號
+    評價: 4.5星 (241則評論)
+- name: 大安區美食餐酒館
+  city: 桃園市
+  district: 大溪區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大溪區南京東路1段10號
+  rating: '4.4'
+  reviews: '125'
+  latitude: 25.02975131327572
+  longitude: 121.26820690706121
+  description: |-
+    大安區美食餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大溪區南京東路1段10號
+    評價: 4.4星 (125則評論)
+- name: 聚餐約會宵夜美食
+  city: 台中市
+  district: 東區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東區民生東路2段104號
+  rating: '5.0'
+  reviews: '129'
+  latitude: 24.168173913385704
+  longitude: 120.70607908226626
+  description: |-
+    聚餐約會宵夜美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東區民生東路2段104號
+    評價: 5.0星 (129則評論)
 - name: 高雄楠梓聚餐餐廳
+  city: 高雄市
+  district: 鹽埕區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鹽埕區成功路5段50號
+  rating: '4.4'
+  reviews: '94'
+  latitude: 22.60884227405557
+  longitude: 120.34122932018118
+  description: |-
+    高雄楠梓聚餐餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鹽埕區成功路5段50號
+    評價: 4.4星 (94則評論)
+- name: 約會餐廳
+  city: 台北市
+  district: 文山區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區羅斯福路3段114號
+  rating: '4.9'
+  reviews: '156'
+  latitude: 25.031289602369867
+  longitude: 121.58090922755639
+  description: |-
+    約會餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區羅斯福路3段114號
+    評價: 4.9星 (156則評論)
+- name: 包場餐廳
+  city: 新北市
+  district: 樹林區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市樹林區金門街1段78號
+  rating: '4.5'
+  reviews: '247'
+  latitude: 24.9805768367239
+  longitude: 121.49229234218842
+  description: |-
+    包場餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市樹林區金門街1段78號
+    評價: 4.5星 (247則評論)
+- name: 楠梓寵物友善餐廳
+  city: 桃園市
+  district: 八德區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市八德區四維路4段113號
+  rating: '4.6'
+  reviews: '115'
+  latitude: 24.965061704178588
+  longitude: 121.2846420648157
+  description: |-
+    楠梓寵物友善餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市八德區四維路4段113號
+    評價: 4.6星 (115則評論)
+- name: 號老窩咖啡
+  city: 台中市
+  district: 豐原區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市豐原區中正路4段128號
+  rating: '4.4'
+  reviews: '153'
+  latitude: 24.11548619550148
+  longitude: 120.65359765592686
+  description: |-
+    號老窩咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市豐原區中正路4段128號
+    評價: 4.4星 (153則評論)
+- name: 嘉義興雅店
+  city: 高雄市
+  district: 旗津區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市旗津區中山路1段87號
+  rating: '4.3'
+  reviews: '210'
+  latitude: 22.62873470760992
+  longitude: 120.25693120241966
+  description: |-
+    嘉義興雅店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市旗津區中山路1段87號
+    評價: 4.3星 (210則評論)
+- name: 咖啡店
+  city: 台北市
+  district: 北投區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市北投區民族路4段21號
+  rating: '4.7'
+  reviews: '103'
+  latitude: 25.04780837018061
+  longitude: 121.57448138954025
+  description: |-
+    咖啡店 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市北投區民族路4段21號
+    評價: 4.7星 (103則評論)
+- name: 優質義式咖啡
+  city: 新北市
+  district: 瑞芳區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市瑞芳區建國路3段81號
+  rating: '4.9'
+  reviews: '214'
+  latitude: 24.978578189629214
+  longitude: 121.50294977366627
+  description: |-
+    優質義式咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市瑞芳區建國路3段81號
+    評價: 4.9星 (214則評論)
+- name: 精品手沖咖啡
+  city: 桃園市
+  district: 桃園區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市桃園區復興路3段47號
+  rating: '4.2'
+  reviews: '90'
+  latitude: 24.97903030119168
+  longitude: 121.27980619984051
+  description: |-
+    精品手沖咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市桃園區復興路3段47號
+    評價: 4.2星 (90則評論)
+- name: 單品咖啡
+  city: 台中市
+  district: 北區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北區和平路5段181號
+  rating: '4.3'
+  reviews: '240'
+  latitude: 24.105616582828777
+  longitude: 120.67607364588308
+  description: |-
+    單品咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北區和平路5段181號
+    評價: 4.3星 (240則評論)
+- name: 值耳掛咖啡
+  city: 高雄市
+  district: 鼓山區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鼓山區忠孝東路1段109號
+  rating: '5.0'
+  reviews: '201'
+  latitude: 22.616127407149868
+  longitude: 120.34657703180876
+  description: |-
+    值耳掛咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鼓山區忠孝東路1段109號
+    評價: 5.0星 (201則評論)
+- name: 老窩咖啡
   city: 台北市
   district: 松山區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區仁愛路4段78號
+  rating: '4.4'
+  reviews: '162'
+  latitude: 24.99429247977366
+  longitude: 121.53989238603722
+  description: |-
+    老窩咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區仁愛路4段78號
+    評價: 4.4星 (162則評論)
+- name: 台電大樓
+  city: 新北市
+  district: 新莊區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新莊區和平東路2段55號
+  rating: '4.6'
+  reviews: '190'
+  latitude: 25.04992205341831
+  longitude: 121.47794256543905
+  description: |-
+    台電大樓 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新莊區和平東路2段55號
+    評價: 4.6星 (190則評論)
+- name: 鑽石塔店
+  city: 桃園市
+  district: 大園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大園區辛亥路5段5號
+  rating: '4.3'
+  reviews: '83'
+  latitude: 25.018177003232054
+  longitude: 121.34246234175022
+  description: |-
+    鑽石塔店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大園區辛亥路5段5號
+    評價: 4.3星 (83則評論)
+- name: 發郭章萬安到店
+  city: 台中市
+  district: 南屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南屯區基隆路1段121號
+  rating: '4.8'
+  reviews: '138'
+  latitude: 24.124790524809836
+  longitude: 120.6365344462233
+  description: |-
+    發郭章萬安到店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南屯區基隆路1段121號
+    評價: 4.8星 (138則評論)
+- name: 隱世餐酒館
+  city: 高雄市
+  district: 苓雅區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市苓雅區松江路5段96號
+  rating: '4.1'
+  reviews: '77'
+  latitude: 22.644401337910374
+  longitude: 120.25305253680243
+  description: |-
+    隱世餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市苓雅區松江路5段96號
+    評價: 4.1星 (77則評論)
+- name: 台北永春店
+  city: 台北市
+  district: 大同區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大同區建國北路1段90號
+  rating: '4.1'
+  reviews: '200'
+  latitude: 25.033322602188623
+  longitude: 121.53300598269807
+  description: |-
+    台北永春店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大同區建國北路1段90號
+    評價: 4.1星 (200則評論)
+- name: 號隱士餐酒館
+  city: 新北市
+  district: 淡水區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市淡水區信義路1段19號
+  rating: '4.1'
+  reviews: '228'
+  latitude: 24.981735800608952
+  longitude: 121.47951704310455
+  description: |-
+    號隱士餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市淡水區信義路1段19號
+    評價: 4.1星 (228則評論)
+- name: 新竹埔頂店
+  city: 桃園市
+  district: 新屋區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市新屋區敦化南路4段88號
+  rating: '5.0'
+  reviews: '107'
+  latitude: 24.975566542346996
+  longitude: 121.26222134017145
+  description: |-
+    新竹埔頂店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市新屋區敦化南路4段88號
+    評價: 5.0星 (107則評論)
+- name: 隱士餐酒館
+  city: 台中市
+  district: 清水區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市清水區南京東路2段27號
+  rating: '4.6'
+  reviews: '141'
+  latitude: 24.177277251817735
+  longitude: 120.719906087052
+  description: |-
+    隱士餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市清水區南京東路2段27號
+    評價: 4.6星 (141則評論)
+- name: 台北國館店
+  city: 高雄市
+  district: 楠梓區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市楠梓區民生東路1段111號
+  rating: '4.7'
+  reviews: '179'
+  latitude: 22.674203531677126
+  longitude: 120.25652948596574
+  description: |-
+    台北國館店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市楠梓區民生東路1段111號
+    評價: 4.7星 (179則評論)
+- name: 號上旋體育用品
+  city: 台北市
+  district: 大安區
   category: 生活用品
   notes: 草系風格店家，提供優質服務
   recommender: ''
   search_link: >-
     https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 台北市松山區民生東路四段56號
-  rating: '4.8'
-  reviews: '234'
-  latitude: 25.002706399017807
-  longitude: 121.53544588891118
-  description: |-
-    高雄楠梓聚餐餐廳 - 生活用品
-    備註: 草系風格店家，提供優質服務
-    地址: 台北市松山區民生東路四段56號
-    評價: 4.8星 (234則評論)
-- name: 約會餐廳
-  city: 台北市
-  district: 內湖區
-  category: 植物店
-  notes: 草系風格店家，提供優質服務
-  recommender: ''
-  search_link: >-
-    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 台北市內湖區成功路四段188號
+  address: 台北市大安區成功路5段200號
   rating: '4.7'
-  reviews: '189'
-  latitude: 25.081424182165158
-  longitude: 121.54133348410413
+  reviews: '187'
+  latitude: 25.02307301658886
+  longitude: 121.55951753306996
   description: |-
-    約會餐廳 - 植物店
+    號上旋體育用品 - 生活用品
     備註: 草系風格店家，提供優質服務
-    地址: 台北市內湖區成功路四段188號
-    評價: 4.7星 (189則評論)
-- name: 包場餐廳
-  city: 台北市
-  district: 文山區
-  category: 農產品
+    地址: 台北市大安區成功路5段200號
+    評價: 4.7星 (187則評論)
+- name: 上旋體育用品
+  city: 新北市
+  district: 中和區
+  category: 生活用品
   notes: 草系風格店家，提供優質服務
   recommender: ''
   search_link: >-
     https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 台北市文山區羅斯福路六段142號
-  rating: '4.9'
-  reviews: '96'
-  latitude: 25.02249128843014
-  longitude: 121.57446620324247
+  address: 新北市中和區羅斯福路4段98號
+  rating: '4.1'
+  reviews: '139'
+  latitude: 25.041115554924968
+  longitude: 121.4266455879502
   description: |-
-    包場餐廳 - 農產品
+    上旋體育用品 - 生活用品
     備註: 草系風格店家，提供優質服務
-    地址: 台北市文山區羅斯福路六段142號
-    評價: 4.9星 (96則評論)
-- name: 楠梓寵物友善餐廳
+    地址: 新北市中和區羅斯福路4段98號
+    評價: 4.1星 (139則評論)
+- name: 新營加盟店
+  city: 桃園市
+  district: 楊梅區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市楊梅區金門街4段36號
+  rating: '4.4'
+  reviews: '158'
+  latitude: 24.9878585109764
+  longitude: 121.337420065244
+  description: |-
+    新營加盟店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市楊梅區金門街4段36號
+    評價: 4.4星 (158則評論)
+- name: 必吃日本美食
+  city: 台中市
+  district: 中區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市中區四維路2段148號
+  rating: '4.7'
+  reviews: '102'
+  latitude: 24.166125945069737
+  longitude: 120.65132499720713
+  description: |-
+    必吃日本美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市中區四維路2段148號
+    評價: 4.7星 (102則評論)
+- name: 號巴索托咖啡館
+  city: 高雄市
+  district: 前金區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前金區中正路4段15號
+  rating: '4.4'
+  reviews: '150'
+  latitude: 22.619410512779567
+  longitude: 120.29440887695598
+  description: |-
+    號巴索托咖啡館 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前金區中正路4段15號
+    評價: 4.4星 (150則評論)
+- name: 巴索托咖啡館
   city: 台北市
   district: 中正區
   category: 咖啡廳
@@ -114,13 +546,6367 @@
   recommender: ''
   search_link: >-
     https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 台北市中正區金門街8號
+  address: 台北市中正區中山路2段180號
   rating: '4.9'
-  reviews: '69'
-  latitude: 25.0275716575447
-  longitude: 121.54218194107945
+  reviews: '112'
+  latitude: 25.053972209367352
+  longitude: 121.61016577801102
   description: |-
-    楠梓寵物友善餐廳 - 咖啡廳
+    巴索托咖啡館 - 咖啡廳
     備註: 草系風格店家，提供優質服務
-    地址: 台北市中正區金門街8號
-    評價: 4.9星 (69則評論)
+    地址: 台北市中正區中山路2段180號
+    評價: 4.9星 (112則評論)
+- name: 耀初貝果北區五義店
+  city: 新北市
+  district: 鶯歌區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市鶯歌區民族路1段135號
+  rating: '4.1'
+  reviews: '205'
+  latitude: 24.984643881126946
+  longitude: 121.44507038449929
+  description: |-
+    耀初貝果北區五義店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市鶯歌區民族路1段135號
+    評價: 4.1星 (205則評論)
+- name: 五權旗艦店
+  city: 桃園市
+  district: 龍潭區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龍潭區建國路3段45號
+  rating: '4.4'
+  reviews: '79'
+  latitude: 25.03686467107085
+  longitude: 121.28925503243757
+  description: |-
+    五權旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龍潭區建國路3段45號
+    評價: 4.4星 (79則評論)
+- name: 東湖餐廳
+  city: 台中市
+  district: 東勢區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東勢區復興路3段13號
+  rating: '4.4'
+  reviews: '100'
+  latitude: 24.127225127606497
+  longitude: 120.7216354278647
+  description: |-
+    東湖餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東勢區復興路3段13號
+    評價: 4.4星 (100則評論)
+- name: 新莊中原店
+  city: 高雄市
+  district: 小港區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市小港區和平路5段63號
+  rating: '4.8'
+  reviews: '53'
+  latitude: 22.625259683626233
+  longitude: 120.27015792765383
+  description: |-
+    新莊中原店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市小港區和平路5段63號
+    評價: 4.8星 (53則評論)
+- name: 蘆洲店
+  city: 台北市
+  district: 南港區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市南港區忠孝東路3段18號
+  rating: '4.6'
+  reviews: '234'
+  latitude: 25.020141873929855
+  longitude: 121.58793194975127
+  description: |-
+    蘆洲店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市南港區忠孝東路3段18號
+    評價: 4.6星 (234則評論)
+- name: 三重店
+  city: 新北市
+  district: 板橋區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市板橋區仁愛路2段168號
+  rating: '4.1'
+  reviews: '193'
+  latitude: 25.009798389586706
+  longitude: 121.4406718530334
+  description: |-
+    三重店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市板橋區仁愛路2段168號
+    評價: 4.1星 (193則評論)
+- name: 榮秋重機維修中心
+  city: 桃園市
+  district: 中壢區
+  category: 商業中心
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市中壢區和平東路1段67號
+  rating: '4.9'
+  reviews: '178'
+  latitude: 25.008759582514188
+  longitude: 121.30172525081447
+  description: |-
+    榮秋重機維修中心 - 商業中心
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市中壢區和平東路1段67號
+    評價: 4.9星 (178則評論)
+- name: 內湖店
+  city: 台中市
+  district: 南區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南區辛亥路1段188號
+  rating: '4.3'
+  reviews: '87'
+  latitude: 24.189398529219932
+  longitude: 120.6635361180129
+  description: |-
+    內湖店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南區辛亥路1段188號
+    評價: 4.3星 (87則評論)
+- name: 泰山店
+  city: 高雄市
+  district: 三民區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市三民區基隆路5段194號
+  rating: '4.4'
+  reviews: '220'
+  latitude: 22.59605731993364
+  longitude: 120.28756451747235
+  description: |-
+    泰山店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市三民區基隆路5段194號
+    評價: 4.4星 (220則評論)
+- name: 三陽授權店
+  city: 台北市
+  district: 內湖區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市內湖區松江路4段49號
+  rating: '4.6'
+  reviews: '80'
+  latitude: 24.99266239842827
+  longitude: 121.56159512933012
+  description: |-
+    三陽授權店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市內湖區松江路4段49號
+    評價: 4.6星 (80則評論)
+- name: 台灣房屋海華直營店
+  city: 新北市
+  district: 新店區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新店區建國北路4段191號
+  rating: '4.8'
+  reviews: '51'
+  latitude: 24.97306034420792
+  longitude: 121.42076882169626
+  description: |-
+    台灣房屋海華直營店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新店區建國北路4段191號
+    評價: 4.8星 (51則評論)
+- name: 在餐廳內發柯文哲競選用品
+  city: 桃園市
+  district: 龜山區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龜山區信義路3段89號
+  rating: '4.1'
+  reviews: '207'
+  latitude: 24.955410757020818
+  longitude: 121.27057428891167
+  description: |-
+    在餐廳內發柯文哲競選用品 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龜山區信義路3段89號
+    評價: 4.1星 (207則評論)
+- name: 旗下餐廳
+  city: 台中市
+  district: 北屯區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北屯區敦化南路3段136號
+  rating: '4.4'
+  reviews: '112'
+  latitude: 24.11448853104076
+  longitude: 120.62624824037967
+  description: |-
+    旗下餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北屯區敦化南路3段136號
+    評價: 4.4星 (112則評論)
+- name: 弁棠日式
+  city: 高雄市
+  district: 前鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前鎮區南京東路2段119號
+  rating: '4.6'
+  reviews: '158'
+  latitude: 22.638071157882482
+  longitude: 120.32917086251703
+  description: |-
+    弁棠日式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前鎮區南京東路2段119號
+    評價: 4.6星 (158則評論)
+- name: 婦女友善
+  city: 台北市
+  district: 士林區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市士林區民生東路5段196號
+  rating: '4.7'
+  reviews: '177'
+  latitude: 25.054759100926894
+  longitude: 121.58817874892358
+  description: |-
+    婦女友善 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市士林區民生東路5段196號
+    評價: 4.7星 (177則評論)
+- name: 熊貓洗車工坊
+  city: 新北市
+  district: 汐止區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市汐止區成功路3段124號
+  rating: '4.2'
+  reviews: '113'
+  latitude: 25.03446178727927
+  longitude: 121.45589769415196
+  description: |-
+    熊貓洗車工坊 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市汐止區成功路3段124號
+    評價: 4.2星 (113則評論)
+- name: 台北南京東五店
+  city: 桃園市
+  district: 觀音區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市觀音區羅斯福路4段57號
+  rating: '4.2'
+  reviews: '71'
+  latitude: 25.00887828332059
+  longitude: 121.26068012771752
+  description: |-
+    台北南京東五店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市觀音區羅斯福路4段57號
+    評價: 4.2星 (71則評論)
+- name: 吃晚餐聽到店
+  city: 台中市
+  district: 西區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西區金門街2段7號
+  rating: '5.0'
+  reviews: '210'
+  latitude: 24.132823349368476
+  longitude: 120.71383996249074
+  description: |-
+    吃晚餐聽到店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西區金門街2段7號
+    評價: 5.0星 (210則評論)
+- name: 一起趣桌遊館
+  city: 高雄市
+  district: 左營區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市左營區四維路4段26號
+  rating: '4.4'
+  reviews: '183'
+  latitude: 22.65314713068176
+  longitude: 120.30021536508204
+  description: |-
+    一起趣桌遊館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市左營區四維路4段26號
+    評價: 4.4星 (183則評論)
+- name: 號明洞石鍋專賣店
+  city: 台北市
+  district: 中山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中山區中正路1段74號
+  rating: '4.9'
+  reviews: '86'
+  latitude: 25.003718375239593
+  longitude: 121.54346174974957
+  description: |-
+    號明洞石鍋專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中山區中正路1段74號
+    評價: 4.9星 (86則評論)
+- name: 明洞石鍋專賣店
+  city: 新北市
+  district: 永和區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市永和區中山路5段119號
+  rating: '4.2'
+  reviews: '146'
+  latitude: 25.03805524265027
+  longitude: 121.43033110602592
+  description: |-
+    明洞石鍋專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市永和區中山路5段119號
+    評價: 4.2星 (146則評論)
+- name: 星星美式
+  city: 桃園市
+  district: 蘆竹區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市蘆竹區民族路5段162號
+  rating: '4.9'
+  reviews: '243'
+  latitude: 25.03315807403345
+  longitude: 121.32218316425268
+  description: |-
+    星星美式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市蘆竹區民族路5段162號
+    評價: 4.9星 (243則評論)
+- name: 高雄鳳山店
+  city: 台中市
+  district: 西屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西屯區建國路2段128號
+  rating: '4.2'
+  reviews: '154'
+  latitude: 24.14604134818352
+  longitude: 120.66981381821294
+  description: |-
+    高雄鳳山店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西屯區建國路2段128號
+    評價: 4.2星 (154則評論)
+- name: 影像工作室
+  city: 高雄市
+  district: 新興區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市新興區復興路4段64號
+  rating: '4.8'
+  reviews: '85'
+  latitude: 22.583958816162188
+  longitude: 120.26863605900208
+  description: |-
+    影像工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市新興區復興路4段64號
+    評價: 4.8星 (85則評論)
+- name: 小時無人拉麵店
+  city: 台北市
+  district: 萬華區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市萬華區和平路1段180號
+  rating: '4.8'
+  reviews: '93'
+  latitude: 25.046815741294402
+  longitude: 121.52883396175827
+  description: |-
+    小時無人拉麵店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市萬華區和平路1段180號
+    評價: 4.8星 (93則評論)
+- name: 號台灣房屋信實黎明邸家特許加盟店
+  city: 新北市
+  district: 三峽區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三峽區忠孝東路4段4號
+  rating: '4.4'
+  reviews: '194'
+  latitude: 25.03295672980347
+  longitude: 121.48476385658573
+  description: |-
+    號台灣房屋信實黎明邸家特許加盟店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三峽區忠孝東路4段4號
+    評價: 4.4星 (194則評論)
+- name: 台灣房屋信實黎明邸家特許加盟店
+  city: 桃園市
+  district: 平鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市平鎮區仁愛路1段111號
+  rating: '4.2'
+  reviews: '168'
+  latitude: 25.004304588985146
+  longitude: 121.27017607963559
+  description: |-
+    台灣房屋信實黎明邸家特許加盟店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市平鎮區仁愛路1段111號
+    評價: 4.2星 (168則評論)
+- name: 號台灣房屋信實邸家特許加盟店
+  city: 台中市
+  district: 大甲區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市大甲區和平東路1段45號
+  rating: '4.7'
+  reviews: '59'
+  latitude: 24.164639325577113
+  longitude: 120.63109146351458
+  description: |-
+    號台灣房屋信實邸家特許加盟店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市大甲區和平東路1段45號
+    評價: 4.7星 (59則評論)
+- name: 台灣房屋信實邸家特許加盟店
+  city: 高雄市
+  district: 鳳山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鳳山區辛亥路3段59號
+  rating: '4.4'
+  reviews: '97'
+  latitude: 22.598961662107225
+  longitude: 120.26993694110811
+  description: |-
+    台灣房屋信實邸家特許加盟店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鳳山區辛亥路3段59號
+    評價: 4.4星 (97則評論)
+- name: 軍規戶外用品店
+  city: 台北市
+  district: 信義區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市信義區基隆路4段182號
+  rating: '4.2'
+  reviews: '208'
+  latitude: 25.069583840699234
+  longitude: 121.52327685133824
+  description: |-
+    軍規戶外用品店 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市信義區基隆路4段182號
+    評價: 4.2星 (208則評論)
+- name: 進別人花店
+  city: 新北市
+  district: 三重區
+  category: 植物店
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三重區松江路5段154號
+  rating: '4.4'
+  reviews: '144'
+  latitude: 25.023588612358747
+  longitude: 121.49314926659332
+  description: |-
+    進別人花店 - 植物店
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三重區松江路5段154號
+    評價: 4.4星 (144則評論)
+- name: 號良家手工港式
+  city: 桃園市
+  district: 大溪區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大溪區建國北路4段51號
+  rating: '4.1'
+  reviews: '67'
+  latitude: 24.952138889329955
+  longitude: 121.32722977002666
+  description: |-
+    號良家手工港式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大溪區建國北路4段51號
+    評價: 4.1星 (67則評論)
+- name: 良家手工港式
+  city: 台中市
+  district: 東區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東區信義路2段142號
+  rating: '4.5'
+  reviews: '249'
+  latitude: 24.12219306005982
+  longitude: 120.67228463235996
+  description: |-
+    良家手工港式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東區信義路2段142號
+    評價: 4.5星 (249則評論)
+- name: 老闆年初有去自由廣場
+  city: 高雄市
+  district: 鹽埕區
+  category: 商業中心
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鹽埕區敦化南路4段93號
+  rating: '4.2'
+  reviews: '166'
+  latitude: 22.664866070156027
+  longitude: 120.25199823503162
+  description: |-
+    老闆年初有去自由廣場 - 商業中心
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鹽埕區敦化南路4段93號
+    評價: 4.2星 (166則評論)
+- name: 熟成咖哩專賣店
+  city: 台北市
+  district: 文山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區南京東路1段135號
+  rating: '4.2'
+  reviews: '192'
+  latitude: 25.04168109756481
+  longitude: 121.57995950286482
+  description: |-
+    熟成咖哩專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區南京東路1段135號
+    評價: 4.2星 (192則評論)
+- name: 新北市新店
+  city: 新北市
+  district: 樹林區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市樹林區民生東路2段85號
+  rating: '4.2'
+  reviews: '88'
+  latitude: 25.033794308829776
+  longitude: 121.4773035574428
+  description: |-
+    新北市新店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市樹林區民生東路2段85號
+    評價: 4.2星 (88則評論)
+- name: 台北迪化街咖啡
+  city: 桃園市
+  district: 八德區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市八德區成功路4段194號
+  rating: '4.0'
+  reviews: '54'
+  latitude: 24.990653518810067
+  longitude: 121.31331949406872
+  description: |-
+    台北迪化街咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市八德區成功路4段194號
+    評價: 4.0星 (54則評論)
+- name: 迪化街酒吧
+  city: 台中市
+  district: 豐原區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市豐原區羅斯福路3段96號
+  rating: '4.3'
+  reviews: '191'
+  latitude: 24.09774034046486
+  longitude: 120.7148381360164
+  description: |-
+    迪化街酒吧 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市豐原區羅斯福路3段96號
+    評價: 4.3星 (191則評論)
+- name: 號旅人驛站鐵花文創二館
+  city: 高雄市
+  district: 旗津區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市旗津區金門街5段147號
+  rating: '4.6'
+  reviews: '172'
+  latitude: 22.5828008927022
+  longitude: 120.32997336384078
+  description: |-
+    號旅人驛站鐵花文創二館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市旗津區金門街5段147號
+    評價: 4.6星 (172則評論)
+- name: 旅人驛站鐵花文創二館
+  city: 台北市
+  district: 北投區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市北投區四維路5段80號
+  rating: '4.7'
+  reviews: '162'
+  latitude: 25.065569365099456
+  longitude: 121.54974542274286
+  description: |-
+    旅人驛站鐵花文創二館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市北投區四維路5段80號
+    評價: 4.7星 (162則評論)
+- name: 號旅人驛站鐵花文創館
+  city: 新北市
+  district: 瑞芳區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市瑞芳區中正路5段32號
+  rating: '4.6'
+  reviews: '72'
+  latitude: 25.031180769794286
+  longitude: 121.47556645454969
+  description: |-
+    號旅人驛站鐵花文創館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市瑞芳區中正路5段32號
+    評價: 4.6星 (72則評論)
+- name: 旅人驛站鐵花文創館
+  city: 桃園市
+  district: 桃園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市桃園區中山路1段197號
+  rating: '4.6'
+  reviews: '75'
+  latitude: 24.993361266214855
+  longitude: 121.30862915719823
+  description: |-
+    旅人驛站鐵花文創館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市桃園區中山路1段197號
+    評價: 4.6星 (75則評論)
+- name: 號旅人驛站中正藏書館
+  city: 台中市
+  district: 北區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北區民族路5段146號
+  rating: '4.3'
+  reviews: '216'
+  latitude: 24.175518949869378
+  longitude: 120.6618085098379
+  description: |-
+    號旅人驛站中正藏書館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北區民族路5段146號
+    評價: 4.3星 (216則評論)
+- name: 旅人驛站中正藏書館
+  city: 高雄市
+  district: 鼓山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鼓山區建國路4段128號
+  rating: '4.9'
+  reviews: '66'
+  latitude: 22.605433050834257
+  longitude: 120.25167334596316
+  description: |-
+    旅人驛站中正藏書館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鼓山區建國路4段128號
+    評價: 4.9星 (66則評論)
+- name: 老闆跟老闆女兒一起開店
+  city: 台北市
+  district: 松山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區復興路2段130號
+  rating: '4.1'
+  reviews: '54'
+  latitude: 25.016478709086616
+  longitude: 121.59317360934877
+  description: |-
+    老闆跟老闆女兒一起開店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區復興路2段130號
+    評價: 4.1星 (54則評論)
+- name: 銅板美食
+  city: 新北市
+  district: 新莊區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新莊區和平路4段155號
+  rating: '4.7'
+  reviews: '80'
+  latitude: 25.05239831280452
+  longitude: 121.43799310016468
+  description: |-
+    銅板美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新莊區和平路4段155號
+    評價: 4.7星 (80則評論)
+- name: 東虎店
+  city: 桃園市
+  district: 大園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大園區忠孝東路5段134號
+  rating: '4.7'
+  reviews: '119'
+  latitude: 24.990112711789276
+  longitude: 121.32135398976492
+  description: |-
+    東虎店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大園區忠孝東路5段134號
+    評價: 4.7星 (119則評論)
+- name: 北緯店
+  city: 台中市
+  district: 南屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南屯區仁愛路4段64號
+  rating: '4.4'
+  reviews: '121'
+  latitude: 24.19709282088379
+  longitude: 120.62410756550968
+  description: |-
+    北緯店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南屯區仁愛路4段64號
+    評價: 4.4星 (121則評論)
+- name: 台南宵夜晚餐美食
+  city: 高雄市
+  district: 苓雅區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市苓雅區和平東路4段178號
+  rating: '4.3'
+  reviews: '91'
+  latitude: 22.597210304947613
+  longitude: 120.32268791094175
+  description: |-
+    台南宵夜晚餐美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市苓雅區和平東路4段178號
+    評價: 4.3星 (91則評論)
+- name: 嘲笑花蓮罷免店
+  city: 台北市
+  district: 大同區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大同區辛亥路4段150號
+  rating: '4.6'
+  reviews: '123'
+  latitude: 24.986317141935345
+  longitude: 121.60609545714522
+  description: |-
+    嘲笑花蓮罷免店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大同區辛亥路4段150號
+    評價: 4.6星 (123則評論)
+- name: 澎湖推薦美食
+  city: 新北市
+  district: 淡水區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市淡水區基隆路3段189號
+  rating: '4.8'
+  reviews: '186'
+  latitude: 24.98066925018213
+  longitude: 121.47565762442034
+  description: |-
+    澎湖推薦美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市淡水區基隆路3段189號
+    評價: 4.8星 (186則評論)
+- name: 澎湖宅配美食
+  city: 桃園市
+  district: 新屋區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市新屋區松江路5段52號
+  rating: '4.0'
+  reviews: '203'
+  latitude: 25.03663775196391
+  longitude: 121.30315625956901
+  description: |-
+    澎湖宅配美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市新屋區松江路5段52號
+    評價: 4.0星 (203則評論)
+- name: 接待中心
+  city: 台中市
+  district: 清水區
+  category: 商業中心
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市清水區建國北路1段100號
+  rating: '4.8'
+  reviews: '55'
+  latitude: 24.134617628793738
+  longitude: 120.70754312818958
+  description: |-
+    接待中心 - 商業中心
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市清水區建國北路1段100號
+    評價: 4.8星 (55則評論)
+- name: 李周生魚片專賣店
+  city: 高雄市
+  district: 楠梓區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市楠梓區信義路4段54號
+  rating: '4.8'
+  reviews: '110'
+  latitude: 22.592439875118128
+  longitude: 120.33584581912058
+  description: |-
+    李周生魚片專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市楠梓區信義路4段54號
+    評價: 4.8星 (110則評論)
+- name: 後來在社宅也有自己的店
+  city: 台北市
+  district: 大安區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大安區敦化南路3段10號
+  rating: '4.7'
+  reviews: '193'
+  latitude: 25.041749654490935
+  longitude: 121.54867319556557
+  description: |-
+    後來在社宅也有自己的店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大安區敦化南路3段10號
+    評價: 4.7星 (193則評論)
+- name: 新竹光復店
+  city: 新北市
+  district: 中和區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市中和區南京東路4段179號
+  rating: '4.4'
+  reviews: '128'
+  latitude: 24.991896790850483
+  longitude: 121.4533914215956
+  description: |-
+    新竹光復店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市中和區南京東路4段179號
+    評價: 4.4星 (128則評論)
+- name: 知名柯粉丁特的店
+  city: 桃園市
+  district: 楊梅區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市楊梅區民生東路4段200號
+  rating: '4.1'
+  reviews: '104'
+  latitude: 24.94402008564978
+  longitude: 121.32501142434526
+  description: |-
+    知名柯粉丁特的店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市楊梅區民生東路4段200號
+    評價: 4.1星 (104則評論)
+- name: 精明本店
+  city: 台中市
+  district: 中區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市中區成功路2段46號
+  rating: '4.8'
+  reviews: '247'
+  latitude: 24.122936930842524
+  longitude: 120.70117136522654
+  description: |-
+    精明本店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市中區成功路2段46號
+    評價: 4.8星 (247則評論)
+- name: 號博學早餐店
+  city: 高雄市
+  district: 前金區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前金區羅斯福路3段62號
+  rating: '4.4'
+  reviews: '156'
+  latitude: 22.581273534020863
+  longitude: 120.25705444578576
+  description: |-
+    號博學早餐店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前金區羅斯福路3段62號
+    評價: 4.4星 (156則評論)
+- name: 博學早餐店
+  city: 台北市
+  district: 中正區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中正區金門街1段9號
+  rating: '4.0'
+  reviews: '92'
+  latitude: 25.000721416484726
+  longitude: 121.61046469762564
+  description: |-
+    博學早餐店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中正區金門街1段9號
+    評價: 4.0星 (92則評論)
+- name: 吉野咖啡
+  city: 新北市
+  district: 鶯歌區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市鶯歌區四維路2段198號
+  rating: '4.9'
+  reviews: '95'
+  latitude: 25.00690393084012
+  longitude: 121.4975388631444
+  description: |-
+    吉野咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市鶯歌區四維路2段198號
+    評價: 4.9星 (95則評論)
+- name: 巷仔內私藏的自烘咖啡店
+  city: 桃園市
+  district: 龍潭區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龍潭區中正路1段72號
+  rating: '4.8'
+  reviews: '243'
+  latitude: 25.025030764426045
+  longitude: 121.33782961864188
+  description: |-
+    巷仔內私藏的自烘咖啡店 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龍潭區中正路1段72號
+    評價: 4.8星 (243則評論)
+- name: 號綠光海岸民宿二館
+  city: 台中市
+  district: 東勢區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東勢區中山路1段73號
+  rating: '4.7'
+  reviews: '138'
+  latitude: 24.112445454338097
+  longitude: 120.63227920440777
+  description: |-
+    號綠光海岸民宿二館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東勢區中山路1段73號
+    評價: 4.7星 (138則評論)
+- name: 綠光海岸民宿二館
+  city: 高雄市
+  district: 小港區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市小港區民族路3段166號
+  rating: '4.4'
+  reviews: '147'
+  latitude: 22.61373948904826
+  longitude: 120.33392801140005
+  description: |-
+    綠光海岸民宿二館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市小港區民族路3段166號
+    評價: 4.4星 (147則評論)
+- name: 雙多火鍋店
+  city: 台北市
+  district: 南港區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市南港區建國路5段174號
+  rating: '4.0'
+  reviews: '77'
+  latitude: 25.07448527285241
+  longitude: 121.61086917395434
+  description: |-
+    雙多火鍋店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市南港區建國路5段174號
+    評價: 4.0星 (77則評論)
+- name: 法式小館
+  city: 新北市
+  district: 板橋區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市板橋區復興路3段82號
+  rating: '4.3'
+  reviews: '214'
+  latitude: 24.96234936167692
+  longitude: 121.48529300684379
+  description: |-
+    法式小館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市板橋區復興路3段82號
+    評價: 4.3星 (214則評論)
+- name: 肉夾饃專賣店
+  city: 桃園市
+  district: 中壢區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市中壢區和平路2段88號
+  rating: '4.1'
+  reviews: '232'
+  latitude: 25.041000757757537
+  longitude: 121.26930260420674
+  description: |-
+    肉夾饃專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市中壢區和平路2段88號
+    評價: 4.1星 (232則評論)
+- name: 中原美食
+  city: 台中市
+  district: 南區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南區忠孝東路4段15號
+  rating: '4.3'
+  reviews: '130'
+  latitude: 24.116488391383314
+  longitude: 120.69299310524174
+  description: |-
+    中原美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南區忠孝東路4段15號
+    評價: 4.3星 (130則評論)
+- name: 桃園美食
+  city: 高雄市
+  district: 三民區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市三民區仁愛路2段109號
+  rating: '4.6'
+  reviews: '226'
+  latitude: 22.59498396944064
+  longitude: 120.317565698252
+  description: |-
+    桃園美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市三民區仁愛路2段109號
+    評價: 4.6星 (226則評論)
+- name: 這家店
+  city: 台北市
+  district: 內湖區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市內湖區和平東路2段77號
+  rating: '5.0'
+  reviews: '236'
+  latitude: 25.022457633815982
+  longitude: 121.61188261005961
+  description: |-
+    這家店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市內湖區和平東路2段77號
+    評價: 5.0星 (236則評論)
+- name: 常客回報店
+  city: 新北市
+  district: 新店區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新店區辛亥路1段31號
+  rating: '4.1'
+  reviews: '199'
+  latitude: 25.01153175876296
+  longitude: 121.49165213855542
+  description: |-
+    常客回報店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新店區辛亥路1段31號
+    評價: 4.1星 (199則評論)
+- name: 星豆咖啡
+  city: 桃園市
+  district: 龜山區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龜山區基隆路1段163號
+  rating: '4.1'
+  reviews: '53'
+  latitude: 24.991189081757568
+  longitude: 121.31200163656469
+  description: |-
+    星豆咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龜山區基隆路1段163號
+    評價: 4.1星 (53則評論)
+- name: 號狗仔先生寵物
+  city: 台中市
+  district: 北屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北屯區松江路2段120號
+  rating: '4.5'
+  reviews: '140'
+  latitude: 24.150516382769094
+  longitude: 120.66503070528775
+  description: |-
+    號狗仔先生寵物 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北屯區松江路2段120號
+    評價: 4.5星 (140則評論)
+- name: 狗仔先生寵物
+  city: 高雄市
+  district: 前鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前鎮區建國北路1段78號
+  rating: '4.2'
+  reviews: '232'
+  latitude: 22.6420733898676
+  longitude: 120.28420798889982
+  description: |-
+    狗仔先生寵物 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前鎮區建國北路1段78號
+    評價: 4.2星 (232則評論)
+- name: 大安區六張犁水煙餐酒館
+  city: 台北市
+  district: 士林區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市士林區信義路5段116號
+  rating: '4.8'
+  reviews: '174'
+  latitude: 25.07374097385311
+  longitude: 121.60528458636279
+  description: |-
+    大安區六張犁水煙餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市士林區信義路5段116號
+    評價: 4.8星 (174則評論)
+- name: 人氣平價餐酒館
+  city: 新北市
+  district: 汐止區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市汐止區敦化南路2段8號
+  rating: '4.8'
+  reviews: '114'
+  latitude: 25.013688855831834
+  longitude: 121.43481737205848
+  description: |-
+    人氣平價餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市汐止區敦化南路2段8號
+    評價: 4.8星 (114則評論)
+- name: 北車京站店
+  city: 桃園市
+  district: 觀音區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市觀音區南京東路4段175號
+  rating: '4.8'
+  reviews: '144'
+  latitude: 25.025923212544505
+  longitude: 121.27424673188958
+  description: |-
+    北車京站店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市觀音區南京東路4段175號
+    評價: 4.8星 (144則評論)
+- name: 中山區水煙餐酒館
+  city: 台中市
+  district: 西區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西區民生東路4段194號
+  rating: '4.8'
+  reviews: '187'
+  latitude: 24.15447333685133
+  longitude: 120.65177952849687
+  description: |-
+    中山區水煙餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西區民生東路4段194號
+    評價: 4.8星 (187則評論)
+- name: 特色酒吧
+  city: 高雄市
+  district: 左營區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市左營區成功路1段67號
+  rating: '4.8'
+  reviews: '70'
+  latitude: 22.63369079653777
+  longitude: 120.26370850045659
+  description: |-
+    特色酒吧 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市左營區成功路1段67號
+    評價: 4.8星 (70則評論)
+- name: 高級餐酒館
+  city: 台北市
+  district: 中山區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中山區羅斯福路3段115號
+  rating: '4.8'
+  reviews: '188'
+  latitude: 25.029824448015255
+  longitude: 121.56023929385763
+  description: |-
+    高級餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中山區羅斯福路3段115號
+    評價: 4.8星 (188則評論)
+- name: 人氣酒吧
+  city: 新北市
+  district: 永和區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市永和區金門街3段65號
+  rating: '4.2'
+  reviews: '202'
+  latitude: 24.976142127225085
+  longitude: 121.43164398061548
+  description: |-
+    人氣酒吧 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市永和區金門街3段65號
+    評價: 4.2星 (202則評論)
+- name: 精緻酒吧
+  city: 桃園市
+  district: 蘆竹區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市蘆竹區四維路2段8號
+  rating: '4.1'
+  reviews: '216'
+  latitude: 25.031665298542368
+  longitude: 121.28938248890944
+  description: |-
+    精緻酒吧 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市蘆竹區四維路2段8號
+    評價: 4.1星 (216則評論)
+- name: 無良店
+  city: 台中市
+  district: 西屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西屯區中正路1段89號
+  rating: '4.0'
+  reviews: '90'
+  latitude: 24.136374367779705
+  longitude: 120.66193253907025
+  description: |-
+    無良店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西屯區中正路1段89號
+    評價: 4.0星 (90則評論)
+- name: 安中店
+  city: 高雄市
+  district: 新興區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市新興區中山路3段184號
+  rating: '4.9'
+  reviews: '54'
+  latitude: 22.60516631767574
+  longitude: 120.255904640702
+  description: |-
+    安中店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市新興區中山路3段184號
+    評價: 4.9星 (54則評論)
+- name: 台大公館飲料店
+  city: 台北市
+  district: 萬華區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市萬華區民族路4段181號
+  rating: '4.8'
+  reviews: '198'
+  latitude: 25.015691085960068
+  longitude: 121.60260113537103
+  description: |-
+    台大公館飲料店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市萬華區民族路4段181號
+    評價: 4.8星 (198則評論)
+- name: 桌遊店
+  city: 新北市
+  district: 三峽區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三峽區建國路5段164號
+  rating: '4.1'
+  reviews: '123'
+  latitude: 24.996596465706645
+  longitude: 121.42814781414049
+  description: |-
+    桌遊店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三峽區建國路5段164號
+    評價: 4.1星 (123則評論)
+- name: 文心大隆店
+  city: 桃園市
+  district: 平鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市平鎮區復興路2段198號
+  rating: '4.9'
+  reviews: '243'
+  latitude: 25.017267550539845
+  longitude: 121.32991173361845
+  description: |-
+    文心大隆店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市平鎮區復興路2段198號
+    評價: 4.9星 (243則評論)
+- name: 羊肉料理專賣店
+  city: 台中市
+  district: 大甲區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市大甲區和平路3段186號
+  rating: '5.0'
+  reviews: '216'
+  latitude: 24.126930979031126
+  longitude: 120.65064225641581
+  description: |-
+    羊肉料理專賣店 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市大甲區和平路3段186號
+    評價: 5.0星 (216則評論)
+- name: 且對罷免志工不友善
+  city: 高雄市
+  district: 鳳山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鳳山區忠孝東路1段82號
+  rating: '4.7'
+  reviews: '143'
+  latitude: 22.577598744013088
+  longitude: 120.30077497481938
+  description: |-
+    且對罷免志工不友善 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鳳山區忠孝東路1段82號
+    評價: 4.7星 (143則評論)
+- name: 黃國琳工作室
+  city: 台北市
+  district: 信義區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市信義區仁愛路2段100號
+  rating: '4.8'
+  reviews: '121'
+  latitude: 25.048863965566493
+  longitude: 121.56741027778507
+  description: |-
+    黃國琳工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市信義區仁愛路2段100號
+    評價: 4.8星 (121則評論)
+- name: 府中店
+  city: 新北市
+  district: 三重區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三重區和平東路5段1號
+  rating: '4.6'
+  reviews: '205'
+  latitude: 24.98386231914011
+  longitude: 121.50484024088567
+  description: |-
+    府中店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三重區和平東路5段1號
+    評價: 4.6星 (205則評論)
+- name: 整間店
+  city: 桃園市
+  district: 大溪區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大溪區辛亥路4段107號
+  rating: '4.7'
+  reviews: '166'
+  latitude: 24.981031519888937
+  longitude: 121.31143552519244
+  description: |-
+    整間店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大溪區辛亥路4段107號
+    評價: 4.7星 (166則評論)
+- name: 藝文店
+  city: 台中市
+  district: 東區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東區基隆路5段174號
+  rating: '4.7'
+  reviews: '246'
+  latitude: 24.136395101639522
+  longitude: 120.71353983682307
+  description: |-
+    藝文店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東區基隆路5段174號
+    評價: 4.7星 (246則評論)
+- name: 號永川牛肉麵凌雲店
+  city: 高雄市
+  district: 鹽埕區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鹽埕區松江路1段123號
+  rating: '4.1'
+  reviews: '158'
+  latitude: 22.58580237040104
+  longitude: 120.29572905882682
+  description: |-
+    號永川牛肉麵凌雲店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鹽埕區松江路1段123號
+    評價: 4.1星 (158則評論)
+- name: 永川牛肉麵凌雲店
+  city: 台北市
+  district: 文山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區建國北路3段86號
+  rating: '4.7'
+  reviews: '245'
+  latitude: 25.044458475776988
+  longitude: 121.56118347823566
+  description: |-
+    永川牛肉麵凌雲店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區建國北路3段86號
+    評價: 4.7星 (245則評論)
+- name: 桃園民族店
+  city: 新北市
+  district: 樹林區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市樹林區信義路3段78號
+  rating: '5.0'
+  reviews: '131'
+  latitude: 25.015907335037344
+  longitude: 121.45691606719234
+  description: |-
+    桃園民族店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市樹林區信義路3段78號
+    評價: 5.0星 (131則評論)
+- name: 人飲料店
+  city: 桃園市
+  district: 八德區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市八德區敦化南路2段94號
+  rating: '5.0'
+  reviews: '78'
+  latitude: 25.00387223710253
+  longitude: 121.30015827063478
+  description: |-
+    人飲料店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市八德區敦化南路2段94號
+    評價: 5.0星 (78則評論)
+- name: 嘉義興業店
+  city: 台中市
+  district: 豐原區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市豐原區南京東路3段51號
+  rating: '4.5'
+  reviews: '66'
+  latitude: 24.104495611900774
+  longitude: 120.66294948693168
+  description: |-
+    嘉義興業店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市豐原區南京東路3段51號
+    評價: 4.5星 (66則評論)
+- name: 南順總店
+  city: 高雄市
+  district: 旗津區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市旗津區民生東路4段103號
+  rating: '4.1'
+  reviews: '202'
+  latitude: 22.65335565733622
+  longitude: 120.3435004494614
+  description: |-
+    南順總店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市旗津區民生東路4段103號
+    評價: 4.1星 (202則評論)
+- name: 號動態羽球館
+  city: 台北市
+  district: 北投區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市北投區成功路2段1號
+  rating: '4.5'
+  reviews: '225'
+  latitude: 25.04522795015327
+  longitude: 121.60867035479374
+  description: |-
+    號動態羽球館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市北投區成功路2段1號
+    評價: 4.5星 (225則評論)
+- name: 動態羽球館
+  city: 新北市
+  district: 瑞芳區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市瑞芳區羅斯福路2段111號
+  rating: '4.4'
+  reviews: '112'
+  latitude: 25.003031672742843
+  longitude: 121.46267926403213
+  description: |-
+    動態羽球館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市瑞芳區羅斯福路2段111號
+    評價: 4.4星 (112則評論)
+- name: 這間有代工全家便利商店
+  city: 桃園市
+  district: 桃園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市桃園區金門街3段126號
+  rating: '4.0'
+  reviews: '195'
+  latitude: 25.040833006397442
+  longitude: 121.34247102472516
+  description: |-
+    這間有代工全家便利商店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市桃園區金門街3段126號
+    評價: 4.0星 (195則評論)
+- name: 高雄店
+  city: 台中市
+  district: 北區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北區四維路3段51號
+  rating: '4.7'
+  reviews: '224'
+  latitude: 24.172708725497806
+  longitude: 120.6259098650145
+  description: |-
+    高雄店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北區四維路3段51號
+    評價: 4.7星 (224則評論)
+- name: 號旭咖哩專賣店
+  city: 高雄市
+  district: 鼓山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鼓山區中正路4段88號
+  rating: '4.6'
+  reviews: '76'
+  latitude: 22.586862906947765
+  longitude: 120.30189676789016
+  description: |-
+    號旭咖哩專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鼓山區中正路4段88號
+    評價: 4.6星 (76則評論)
+- name: 旭咖哩專賣店
+  city: 台北市
+  district: 松山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區中山路1段39號
+  rating: '4.8'
+  reviews: '199'
+  latitude: 25.040422286293392
+  longitude: 121.56593785010813
+  description: |-
+    旭咖哩專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區中山路1段39號
+    評價: 4.8星 (199則評論)
+- name: 西區模範店
+  city: 新北市
+  district: 新莊區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新莊區民族路1段155號
+  rating: '4.8'
+  reviews: '127'
+  latitude: 24.972470907835326
+  longitude: 121.46229929670804
+  description: |-
+    西區模範店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新莊區民族路1段155號
+    評價: 4.8星 (127則評論)
+- name: 開的分店
+  city: 桃園市
+  district: 大園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大園區建國路3段124號
+  rating: '4.1'
+  reviews: '219'
+  latitude: 24.9837980813386
+  longitude: 121.31719179631116
+  description: |-
+    開的分店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大園區建國路3段124號
+    評價: 4.1星 (219則評論)
+- name: 寵物友善
+  city: 台中市
+  district: 南屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南屯區復興路5段40號
+  rating: '4.4'
+  reviews: '72'
+  latitude: 24.121316551710684
+  longitude: 120.67725355639922
+  description: |-
+    寵物友善 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南屯區復興路5段40號
+    評價: 4.4星 (72則評論)
+- name: 附近咖啡
+  city: 高雄市
+  district: 苓雅區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市苓雅區和平路5段59號
+  rating: '4.9'
+  reviews: '96'
+  latitude: 22.668319384421892
+  longitude: 120.34363381650627
+  description: |-
+    附近咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市苓雅區和平路5段59號
+    評價: 4.9星 (96則評論)
+- name: 基隆廟口支店
+  city: 台北市
+  district: 大同區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大同區忠孝東路4段56號
+  rating: '5.0'
+  reviews: '79'
+  latitude: 25.008997216736375
+  longitude: 121.58296599735044
+  description: |-
+    基隆廟口支店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大同區忠孝東路4段56號
+    評價: 5.0星 (79則評論)
+- name: 蘇澳馬賽店
+  city: 新北市
+  district: 淡水區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市淡水區仁愛路2段73號
+  rating: '4.7'
+  reviews: '203'
+  latitude: 25.04734458913474
+  longitude: 121.43155195503398
+  description: |-
+    蘇澳馬賽店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市淡水區仁愛路2段73號
+    評價: 4.7星 (203則評論)
+- name: 還在工作室
+  city: 桃園市
+  district: 新屋區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市新屋區和平東路4段24號
+  rating: '4.5'
+  reviews: '208'
+  latitude: 24.972649574777304
+  longitude: 121.25927057668133
+  description: |-
+    還在工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市新屋區和平東路4段24號
+    評價: 4.5星 (208則評論)
+- name: 老闆在店
+  city: 台中市
+  district: 清水區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市清水區辛亥路2段72號
+  rating: '4.8'
+  reviews: '210'
+  latitude: 24.189500724682876
+  longitude: 120.69109136581173
+  description: |-
+    老闆在店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市清水區辛亥路2段72號
+    評價: 4.8星 (210則評論)
+- name: 號藍瓦咖啡
+  city: 高雄市
+  district: 楠梓區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市楠梓區基隆路1段72號
+  rating: '4.3'
+  reviews: '161'
+  latitude: 22.655592150878398
+  longitude: 120.31984898745024
+  description: |-
+    號藍瓦咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市楠梓區基隆路1段72號
+    評價: 4.3星 (161則評論)
+- name: 藍瓦咖啡
+  city: 台北市
+  district: 大安區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大安區松江路2段187號
+  rating: '4.8'
+  reviews: '71'
+  latitude: 25.011385515139448
+  longitude: 121.55715579308455
+  description: |-
+    藍瓦咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大安區松江路2段187號
+    評價: 4.8星 (71則評論)
+- name: 基隆市信義區義四路五號抵家咖啡
+  city: 新北市
+  district: 中和區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市中和區建國北路1段187號
+  rating: '5.0'
+  reviews: '76'
+  latitude: 25.037260767043602
+  longitude: 121.45798658744903
+  description: |-
+    基隆市信義區義四路五號抵家咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市中和區建國北路1段187號
+    評價: 5.0星 (76則評論)
+- name: 基隆咖啡
+  city: 桃園市
+  district: 楊梅區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市楊梅區信義路3段191號
+  rating: '4.6'
+  reviews: '80'
+  latitude: 24.983618654065292
+  longitude: 121.34737606609389
+  description: |-
+    基隆咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市楊梅區信義路3段191號
+    評價: 4.6星 (80則評論)
+- name: 寵物咖啡
+  city: 台中市
+  district: 中區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市中區敦化南路3段78號
+  rating: '4.7'
+  reviews: '195'
+  latitude: 24.156314594425734
+  longitude: 120.70172104459334
+  description: |-
+    寵物咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市中區敦化南路3段78號
+    評價: 4.7星 (195則評論)
+- name: 貓咪咖啡
+  city: 高雄市
+  district: 前金區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前金區南京東路1段104號
+  rating: '4.8'
+  reviews: '122'
+  latitude: 22.637640670039044
+  longitude: 120.26085184318202
+  description: |-
+    貓咪咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前金區南京東路1段104號
+    評價: 4.8星 (122則評論)
+- name: 醫院咖啡
+  city: 台北市
+  district: 中正區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中正區民生東路3段138號
+  rating: '4.6'
+  reviews: '233'
+  latitude: 25.05478267945507
+  longitude: 121.60651559321572
+  description: |-
+    醫院咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中正區民生東路3段138號
+    評價: 4.6星 (233則評論)
+- name: 巷弄咖啡
+  city: 新北市
+  district: 鶯歌區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市鶯歌區成功路1段189號
+  rating: '4.8'
+  reviews: '205'
+  latitude: 25.017921482805654
+  longitude: 121.50053318631747
+  description: |-
+    巷弄咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市鶯歌區成功路1段189號
+    評價: 4.8星 (205則評論)
+- name: 精品咖啡
+  city: 桃園市
+  district: 龍潭區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龍潭區羅斯福路1段139號
+  rating: '4.1'
+  reviews: '246'
+  latitude: 24.96286296366551
+  longitude: 121.28845913347351
+  description: |-
+    精品咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龍潭區羅斯福路1段139號
+    評價: 4.1星 (246則評論)
+- name: 自家烘焙咖啡
+  city: 台中市
+  district: 東勢區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東勢區金門街3段175號
+  rating: '4.1'
+  reviews: '58'
+  latitude: 24.164824117904285
+  longitude: 120.66469764236695
+  description: |-
+    自家烘焙咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東勢區金門街3段175號
+    評價: 4.1星 (58則評論)
+- name: 抵家咖啡
+  city: 高雄市
+  district: 小港區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市小港區四維路1段8號
+  rating: '4.2'
+  reviews: '190'
+  latitude: 22.62973389215676
+  longitude: 120.33375032991805
+  description: |-
+    抵家咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市小港區四維路1段8號
+    評價: 4.2星 (190則評論)
+- name: 號日晨咖啡
+  city: 台北市
+  district: 南港區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市南港區中正路5段159號
+  rating: '4.3'
+  reviews: '229'
+  latitude: 25.027239988954985
+  longitude: 121.52752011152349
+  description: |-
+    號日晨咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市南港區中正路5段159號
+    評價: 4.3星 (229則評論)
+- name: 濾掛一站式代工專門店
+  city: 新北市
+  district: 板橋區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市板橋區中山路1段24號
+  rating: '4.3'
+  reviews: '228'
+  latitude: 25.009547710979156
+  longitude: 121.46319269089054
+  description: |-
+    濾掛一站式代工專門店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市板橋區中山路1段24號
+    評價: 4.3星 (228則評論)
+- name: 日晨咖啡
+  city: 桃園市
+  district: 中壢區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市中壢區民族路5段143號
+  rating: '4.3'
+  reviews: '69'
+  latitude: 24.975424326841566
+  longitude: 121.34707215016071
+  description: |-
+    日晨咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市中壢區民族路5段143號
+    評價: 4.3星 (69則評論)
+- name: 板橋懷德店
+  city: 台中市
+  district: 南區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南區建國路1段160號
+  rating: '4.6'
+  reviews: '90'
+  latitude: 24.19162729024689
+  longitude: 120.66368942083638
+  description: |-
+    板橋懷德店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南區建國路1段160號
+    評價: 4.6星 (90則評論)
+- name: 號黑早咖啡
+  city: 高雄市
+  district: 三民區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市三民區復興路3段14號
+  rating: '4.0'
+  reviews: '62'
+  latitude: 22.626123429456477
+  longitude: 120.28147666026065
+  description: |-
+    號黑早咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市三民區復興路3段14號
+    評價: 4.0星 (62則評論)
+- name: 黑早咖啡
+  city: 台北市
+  district: 內湖區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市內湖區和平路2段174號
+  rating: '4.4'
+  reviews: '213'
+  latitude: 25.027979912930903
+  longitude: 121.58950945970774
+  description: |-
+    黑早咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市內湖區和平路2段174號
+    評價: 4.4星 (213則評論)
+- name: 號火奴魯魯總店
+  city: 新北市
+  district: 新店區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新店區忠孝東路5段75號
+  rating: '4.7'
+  reviews: '124'
+  latitude: 25.025791615825735
+  longitude: 121.49795740156347
+  description: |-
+    號火奴魯魯總店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新店區忠孝東路5段75號
+    評價: 4.7星 (124則評論)
+- name: 火奴魯魯總店
+  city: 桃園市
+  district: 龜山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龜山區仁愛路2段159號
+  rating: '4.8'
+  reviews: '240'
+  latitude: 24.973817013100586
+  longitude: 121.34555692121329
+  description: |-
+    火奴魯魯總店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龜山區仁愛路2段159號
+    評價: 4.8星 (240則評論)
+- name: 號放課桌遊與卡牌認證店
+  city: 台中市
+  district: 北屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北屯區和平東路3段80號
+  rating: '4.8'
+  reviews: '125'
+  latitude: 24.182058641713372
+  longitude: 120.64512953770917
+  description: |-
+    號放課桌遊與卡牌認證店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北屯區和平東路3段80號
+    評價: 4.8星 (125則評論)
+- name: 認證店
+  city: 高雄市
+  district: 前鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前鎮區辛亥路3段122號
+  rating: '5.0'
+  reviews: '249'
+  latitude: 22.58728420789306
+  longitude: 120.30829423175457
+  description: |-
+    認證店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前鎮區辛亥路3段122號
+    評價: 5.0星 (249則評論)
+- name: 寶可夢道館
+  city: 台北市
+  district: 士林區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市士林區基隆路3段30號
+  rating: '4.6'
+  reviews: '216'
+  latitude: 24.98774877788315
+  longitude: 121.56019250141661
+  description: |-
+    寶可夢道館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市士林區基隆路3段30號
+    評價: 4.6星 (216則評論)
+- name: 放課桌遊與卡牌認證店
+  city: 新北市
+  district: 汐止區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市汐止區松江路4段121號
+  rating: '4.6'
+  reviews: '170'
+  latitude: 24.97577602246935
+  longitude: 121.5125320377251
+  description: |-
+    放課桌遊與卡牌認證店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市汐止區松江路4段121號
+    評價: 4.6星 (170則評論)
+- name: 手作咖啡
+  city: 桃園市
+  district: 觀音區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市觀音區建國北路4段7號
+  rating: '4.2'
+  reviews: '121'
+  latitude: 25.02235818455135
+  longitude: 121.25300651604728
+  description: |-
+    手作咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市觀音區建國北路4段7號
+    評價: 4.2星 (121則評論)
+- name: 水林店
+  city: 台中市
+  district: 西區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西區信義路4段123號
+  rating: '4.2'
+  reviews: '127'
+  latitude: 24.111689938128812
+  longitude: 120.685243625947
+  description: |-
+    水林店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西區信義路4段123號
+    評價: 4.2星 (127則評論)
+- name: 柯文哲曾到此擔任一日店
+  city: 高雄市
+  district: 左營區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市左營區敦化南路5段44號
+  rating: '4.9'
+  reviews: '203'
+  latitude: 22.597965180467806
+  longitude: 120.2936394559154
+  description: |-
+    柯文哲曾到此擔任一日店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市左營區敦化南路5段44號
+    評價: 4.9星 (203則評論)
+- name: 忠孝旗艦店
+  city: 台北市
+  district: 中山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中山區南京東路3段104號
+  rating: '4.1'
+  reviews: '176'
+  latitude: 25.013017742216974
+  longitude: 121.57186708427349
+  description: |-
+    忠孝旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中山區南京東路3段104號
+    評價: 4.1星 (176則評論)
+- name: 南京總店
+  city: 新北市
+  district: 永和區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市永和區民生東路1段123號
+  rating: '4.7'
+  reviews: '124'
+  latitude: 24.9638850582908
+  longitude: 121.4739452877419
+  description: |-
+    南京總店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市永和區民生東路1段123號
+    評價: 4.7星 (124則評論)
+- name: 遠科店
+  city: 桃園市
+  district: 蘆竹區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市蘆竹區成功路2段16號
+  rating: '4.4'
+  reviews: '160'
+  latitude: 25.030266118512365
+  longitude: 121.31198468703094
+  description: |-
+    遠科店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市蘆竹區成功路2段16號
+    評價: 4.4星 (160則評論)
+- name: 林園店
+  city: 台中市
+  district: 西屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西屯區羅斯福路2段98號
+  rating: '4.6'
+  reviews: '164'
+  latitude: 24.16834567293532
+  longitude: 120.63807760972661
+  description: |-
+    林園店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西屯區羅斯福路2段98號
+    評價: 4.6星 (164則評論)
+- name: 號旅沐咖啡錦州店
+  city: 高雄市
+  district: 新興區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市新興區金門街1段19號
+  rating: '4.6'
+  reviews: '106'
+  latitude: 22.619789067707295
+  longitude: 120.25511922787148
+  description: |-
+    號旅沐咖啡錦州店 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市新興區金門街1段19號
+    評價: 4.6星 (106則評論)
+- name: 旅沐咖啡錦州店
+  city: 台北市
+  district: 萬華區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市萬華區四維路4段50號
+  rating: '4.7'
+  reviews: '57'
+  latitude: 25.020423584154862
+  longitude: 121.55177149620506
+  description: |-
+    旅沐咖啡錦州店 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市萬華區四維路4段50號
+    評價: 4.7星 (57則評論)
+- name: 大豐野菜館
+  city: 新北市
+  district: 三峽區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三峽區中正路5段185號
+  rating: '4.4'
+  reviews: '175'
+  latitude: 24.990128777873807
+  longitude: 121.44910980606429
+  description: |-
+    大豐野菜館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三峽區中正路5段185號
+    評價: 4.4星 (175則評論)
+- name: 野菜豐蔬食館
+  city: 桃園市
+  district: 平鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市平鎮區中山路4段88號
+  rating: '4.3'
+  reviews: '193'
+  latitude: 25.002405922086595
+  longitude: 121.33509265494229
+  description: |-
+    野菜豐蔬食館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市平鎮區中山路4段88號
+    評價: 4.3星 (193則評論)
+- name: 滷菩提蔬食漢口店
+  city: 台中市
+  district: 大甲區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市大甲區民族路4段36號
+  rating: '4.9'
+  reviews: '196'
+  latitude: 24.10991888782615
+  longitude: 120.70895910750524
+  description: |-
+    滷菩提蔬食漢口店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市大甲區民族路4段36號
+    評價: 4.9星 (196則評論)
+- name: 髮型工作室
+  city: 高雄市
+  district: 鳳山區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鳳山區建國路3段189號
+  rating: '4.4'
+  reviews: '186'
+  latitude: 22.596209092697112
+  longitude: 120.34652157677996
+  description: |-
+    髮型工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鳳山區建國路3段189號
+    評價: 4.4星 (186則評論)
+- name: 誠品生活
+  city: 台北市
+  district: 信義區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市信義區復興路2段177號
+  rating: '4.3'
+  reviews: '88'
+  latitude: 25.080016900420365
+  longitude: 121.59633462986572
+  description: |-
+    誠品生活 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市信義區復興路2段177號
+    評價: 4.3星 (88則評論)
+- name: 品牌旗艦店
+  city: 新北市
+  district: 三重區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三重區和平路5段164號
+  rating: '4.9'
+  reviews: '63'
+  latitude: 24.987154180940543
+  longitude: 121.45062256617956
+  description: |-
+    品牌旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三重區和平路5段164號
+    評價: 4.9星 (63則評論)
+- name: 號艾倫寵物生活館
+  city: 桃園市
+  district: 大溪區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大溪區忠孝東路5段119號
+  rating: '4.5'
+  reviews: '100'
+  latitude: 24.98624066284393
+  longitude: 121.25375646436883
+  description: |-
+    號艾倫寵物生活館 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大溪區忠孝東路5段119號
+    評價: 4.5星 (100則評論)
+- name: 澎湖寵物
+  city: 台中市
+  district: 東區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東區仁愛路1段107號
+  rating: '4.2'
+  reviews: '179'
+  latitude: 24.140018724845078
+  longitude: 120.64613607353009
+  description: |-
+    澎湖寵物 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東區仁愛路1段107號
+    評價: 4.2星 (179則評論)
+- name: 寵物旅館
+  city: 高雄市
+  district: 鹽埕區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鹽埕區和平東路3段14號
+  rating: '4.7'
+  reviews: '71'
+  latitude: 22.610988351790436
+  longitude: 120.33396861667708
+  description: |-
+    寵物旅館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鹽埕區和平東路3段14號
+    評價: 4.7星 (71則評論)
+- name: 在地推薦寵物店
+  city: 台北市
+  district: 文山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區辛亥路5段28號
+  rating: '4.9'
+  reviews: '116'
+  latitude: 25.080201492183093
+  longitude: 121.5403081479623
+  description: |-
+    在地推薦寵物店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區辛亥路5段28號
+    評價: 4.9星 (116則評論)
+- name: 艾倫寵物生活館
+  city: 新北市
+  district: 樹林區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市樹林區基隆路5段190號
+  rating: '4.1'
+  reviews: '97'
+  latitude: 25.03601091338672
+  longitude: 121.4566070381525
+  description: |-
+    艾倫寵物生活館 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市樹林區基隆路5段190號
+    評價: 4.1星 (97則評論)
+- name: 號億品鍋歸仁旗艦店
+  city: 桃園市
+  district: 八德區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市八德區松江路5段186號
+  rating: '4.5'
+  reviews: '149'
+  latitude: 24.95371295476048
+  longitude: 121.2915988523591
+  description: |-
+    號億品鍋歸仁旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市八德區松江路5段186號
+    評價: 4.5星 (149則評論)
+- name: 億品鍋歸仁旗艦店
+  city: 台中市
+  district: 豐原區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市豐原區建國北路3段94號
+  rating: '4.4'
+  reviews: '246'
+  latitude: 24.17487114843806
+  longitude: 120.65647653806171
+  description: |-
+    億品鍋歸仁旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市豐原區建國北路3段94號
+    評價: 4.4星 (246則評論)
+- name: 底片咖啡
+  city: 高雄市
+  district: 旗津區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市旗津區信義路3段160號
+  rating: '4.3'
+  reviews: '151'
+  latitude: 22.637598170455078
+  longitude: 120.26424626084139
+  description: |-
+    底片咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市旗津區信義路3段160號
+    評價: 4.3星 (151則評論)
+- name: 號賣私咖啡
+  city: 台北市
+  district: 北投區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市北投區敦化南路1段119號
+  rating: '4.8'
+  reviews: '183'
+  latitude: 24.997412006162534
+  longitude: 121.52885082005265
+  description: |-
+    號賣私咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市北投區敦化南路1段119號
+    評價: 4.8星 (183則評論)
+- name: 賣私咖啡
+  city: 新北市
+  district: 瑞芳區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市瑞芳區南京東路5段39號
+  rating: '4.9'
+  reviews: '220'
+  latitude: 24.995348432238753
+  longitude: 121.44733170542648
+  description: |-
+    賣私咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市瑞芳區南京東路5段39號
+    評價: 4.9星 (220則評論)
+- name: 號蘭芳麵食館
+  city: 桃園市
+  district: 桃園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市桃園區民生東路4段95號
+  rating: '5.0'
+  reviews: '150'
+  latitude: 25.00231299838053
+  longitude: 121.34995945878578
+  description: |-
+    號蘭芳麵食館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市桃園區民生東路4段95號
+    評價: 5.0星 (150則評論)
+- name: 蘭芳麵食館
+  city: 台中市
+  district: 北區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北區成功路3段134號
+  rating: '4.9'
+  reviews: '174'
+  latitude: 24.109075727690694
+  longitude: 120.72245907520632
+  description: |-
+    蘭芳麵食館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北區成功路3段134號
+    評價: 4.9星 (174則評論)
+- name: 東橋店
+  city: 高雄市
+  district: 鼓山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鼓山區羅斯福路1段126號
+  rating: '4.5'
+  reviews: '100'
+  latitude: 22.601692909223868
+  longitude: 120.3440722341239
+  description: |-
+    東橋店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鼓山區羅斯福路1段126號
+    評價: 4.5星 (100則評論)
+- name: 飲料店
+  city: 台北市
+  district: 松山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區金門街3段134號
+  rating: '4.8'
+  reviews: '157'
+  latitude: 25.082433825486824
+  longitude: 121.61403123493017
+  description: |-
+    飲料店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區金門街3段134號
+    評價: 4.8星 (157則評論)
+- name: 媽的青鳥真的有病吧整天偷偷摸摸在人家店
+  city: 新北市
+  district: 新莊區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新莊區四維路1段97號
+  rating: '4.1'
+  reviews: '124'
+  latitude: 25.034318008202323
+  longitude: 121.43504027996039
+  description: |-
+    媽的青鳥真的有病吧整天偷偷摸摸在人家店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新莊區四維路1段97號
+    評價: 4.1星 (124則評論)
+- name: 麵疙瘩專門店
+  city: 桃園市
+  district: 大園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大園區中正路1段73號
+  rating: '4.1'
+  reviews: '119'
+  latitude: 25.02889485120683
+  longitude: 121.34346782559778
+  description: |-
+    麵疙瘩專門店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大園區中正路1段73號
+    評價: 4.1星 (119則評論)
+- name: 美術館店
+  city: 台中市
+  district: 南屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南屯區中山路1段151號
+  rating: '4.8'
+  reviews: '239'
+  latitude: 24.14587066836129
+  longitude: 120.64026984040208
+  description: |-
+    美術館店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南屯區中山路1段151號
+    評價: 4.8星 (239則評論)
+- name: 水上市政店
+  city: 高雄市
+  district: 苓雅區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市苓雅區民族路5段129號
+  rating: '4.4'
+  reviews: '90'
+  latitude: 22.631118795722372
+  longitude: 120.30684733558412
+  description: |-
+    水上市政店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市苓雅區民族路5段129號
+    評價: 4.4星 (90則評論)
+- name: 號山林咖啡
+  city: 台北市
+  district: 大同區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大同區建國路1段124號
+  rating: '4.5'
+  reviews: '243'
+  latitude: 25.06033509960813
+  longitude: 121.5335248838898
+  description: |-
+    號山林咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大同區建國路1段124號
+    評價: 4.5星 (243則評論)
+- name: 山林咖啡
+  city: 新北市
+  district: 淡水區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市淡水區復興路4段68號
+  rating: '4.3'
+  reviews: '120'
+  latitude: 24.991090442010638
+  longitude: 121.477721105584
+  description: |-
+    山林咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市淡水區復興路4段68號
+    評價: 4.3星 (120則評論)
+- name: 和牛極緻料理
+  city: 桃園市
+  district: 新屋區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市新屋區和平路1段112號
+  rating: '4.8'
+  reviews: '124'
+  latitude: 24.9599456397184
+  longitude: 121.29915146758852
+  description: |-
+    和牛極緻料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市新屋區和平路1段112號
+    評價: 4.8星 (124則評論)
+- name: 攝影工作室
+  city: 台中市
+  district: 清水區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市清水區忠孝東路1段104號
+  rating: '4.1'
+  reviews: '60'
+  latitude: 24.122865223251573
+  longitude: 120.65350351389196
+  description: |-
+    攝影工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市清水區忠孝東路1段104號
+    評價: 4.1星 (60則評論)
+- name: 有巢氏八德桃智店
+  city: 高雄市
+  district: 楠梓區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市楠梓區仁愛路2段10號
+  rating: '4.1'
+  reviews: '227'
+  latitude: 22.647047590951694
+  longitude: 120.3273474573232
+  description: |-
+    有巢氏八德桃智店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市楠梓區仁愛路2段10號
+    評價: 4.1星 (227則評論)
+- name: 號安妮公主花園餐廳
+  city: 台北市
+  district: 大安區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大安區和平東路1段140號
+  rating: '4.5'
+  reviews: '167'
+  latitude: 25.060141444390936
+  longitude: 121.52605360814388
+  description: |-
+    號安妮公主花園餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大安區和平東路1段140號
+    評價: 4.5星 (167則評論)
+- name: 安妮公主花園餐廳
+  city: 新北市
+  district: 中和區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市中和區辛亥路4段159號
+  rating: '4.5'
+  reviews: '240'
+  latitude: 24.9704378220184
+  longitude: 121.42508331738226
+  description: |-
+    安妮公主花園餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市中和區辛亥路4段159號
+    評價: 4.5星 (240則評論)
+- name: 號社畜微醺餐酒館
+  city: 桃園市
+  district: 楊梅區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市楊梅區基隆路2段3號
+  rating: '4.2'
+  reviews: '239'
+  latitude: 24.98097510541158
+  longitude: 121.27285117507226
+  description: |-
+    號社畜微醺餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市楊梅區基隆路2段3號
+    評價: 4.2星 (239則評論)
+- name: 社畜微醺餐酒館
+  city: 台中市
+  district: 中區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市中區松江路3段181號
+  rating: '4.4'
+  reviews: '168'
+  latitude: 24.15345153963783
+  longitude: 120.65343882595057
+  description: |-
+    社畜微醺餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市中區松江路3段181號
+    評價: 4.4星 (168則評論)
+- name: 號胖老爹美式
+  city: 高雄市
+  district: 前金區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前金區建國北路3段140號
+  rating: '4.9'
+  reviews: '180'
+  latitude: 22.676527390948966
+  longitude: 120.31526133355658
+  description: |-
+    號胖老爹美式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前金區建國北路3段140號
+    評價: 4.9星 (180則評論)
+- name: 中華店
+  city: 台北市
+  district: 中正區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中正區信義路5段79號
+  rating: '4.5'
+  reviews: '200'
+  latitude: 25.0825102226413
+  longitude: 121.58834539366713
+  description: |-
+    中華店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中正區信義路5段79號
+    評價: 4.5星 (200則評論)
+- name: 胖老爹美式
+  city: 新北市
+  district: 鶯歌區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市鶯歌區敦化南路3段22號
+  rating: '4.3'
+  reviews: '142'
+  latitude: 24.97437123988645
+  longitude: 121.4854946577919
+  description: |-
+    胖老爹美式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市鶯歌區敦化南路3段22號
+    評價: 4.3星 (142則評論)
+- name: 號雲家檸檬大王六合店
+  city: 桃園市
+  district: 龍潭區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龍潭區南京東路3段162號
+  rating: '4.7'
+  reviews: '113'
+  latitude: 24.991380801635433
+  longitude: 121.26535046869778
+  description: |-
+    號雲家檸檬大王六合店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龍潭區南京東路3段162號
+    評價: 4.7星 (113則評論)
+- name: 雲家檸檬大王六合店
+  city: 台中市
+  district: 東勢區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東勢區民生東路1段50號
+  rating: '4.4'
+  reviews: '93'
+  latitude: 24.164600143269755
+  longitude: 120.71298965384983
+  description: |-
+    雲家檸檬大王六合店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東勢區民生東路1段50號
+    評價: 4.4星 (93則評論)
+- name: 向上店
+  city: 高雄市
+  district: 小港區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市小港區成功路3段118號
+  rating: '4.8'
+  reviews: '147'
+  latitude: 22.601734648418443
+  longitude: 120.2593329101718
+  description: |-
+    向上店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市小港區成功路3段118號
+    評價: 4.8星 (147則評論)
+- name: 三豐店
+  city: 台北市
+  district: 南港區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市南港區羅斯福路3段51號
+  rating: '4.2'
+  reviews: '150'
+  latitude: 25.05013927466298
+  longitude: 121.57757157189972
+  description: |-
+    三豐店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市南港區羅斯福路3段51號
+    評價: 4.2星 (150則評論)
+- name: 平價早餐店
+  city: 新北市
+  district: 板橋區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市板橋區金門街5段176號
+  rating: '4.2'
+  reviews: '245'
+  latitude: 25.04056363468201
+  longitude: 121.436618283505
+  description: |-
+    平價早餐店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市板橋區金門街5段176號
+    評價: 4.2星 (245則評論)
+- name: 大雅清泉店
+  city: 桃園市
+  district: 中壢區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市中壢區四維路1段148號
+  rating: '4.3'
+  reviews: '79'
+  latitude: 24.974223016866823
+  longitude: 121.28356054676131
+  description: |-
+    大雅清泉店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市中壢區四維路1段148號
+    評價: 4.3星 (79則評論)
+- name: 豐東店
+  city: 台中市
+  district: 南區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南區中正路4段120號
+  rating: '4.4'
+  reviews: '175'
+  latitude: 24.130641262746877
+  longitude: 120.67955952586436
+  description: |-
+    豐東店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南區中正路4段120號
+    評價: 4.4星 (175則評論)
+- name: 圓環南店
+  city: 高雄市
+  district: 三民區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市三民區中山路5段165號
+  rating: '4.1'
+  reviews: '79'
+  latitude: 22.643781526667883
+  longitude: 120.26467205120225
+  description: |-
+    圓環南店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市三民區中山路5段165號
+    評價: 4.1星 (79則評論)
+- name: 嘉義市東區東市場
+  city: 台北市
+  district: 內湖區
+  category: 市場
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市內湖區民族路5段25號
+  rating: '4.5'
+  reviews: '95'
+  latitude: 25.01389435832823
+  longitude: 121.51849999395913
+  description: |-
+    嘉義市東區東市場 - 市場
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市內湖區民族路5段25號
+    評價: 4.5星 (95則評論)
+- name: 號東市場
+  city: 新北市
+  district: 新店區
+  category: 市場
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新店區建國路4段137號
+  rating: '4.5'
+  reviews: '76'
+  latitude: 25.047198605968678
+  longitude: 121.4300339887167
+  description: |-
+    號東市場 - 市場
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新店區建國路4段137號
+    評價: 4.5星 (76則評論)
+- name: 號梅先生麵館
+  city: 桃園市
+  district: 龜山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龜山區復興路3段110號
+  rating: '4.6'
+  reviews: '212'
+  latitude: 24.945937921381333
+  longitude: 121.29936226653274
+  description: |-
+    號梅先生麵館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龜山區復興路3段110號
+    評價: 4.6星 (212則評論)
+- name: 東區麵食料理
+  city: 台中市
+  district: 北屯區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北屯區和平路2段183號
+  rating: '4.6'
+  reviews: '107'
+  latitude: 24.10105020827587
+  longitude: 120.63921917990082
+  description: |-
+    東區麵食料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北屯區和平路2段183號
+    評價: 4.6星 (107則評論)
+- name: 外帶美食
+  city: 高雄市
+  district: 前鎮區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前鎮區忠孝東路3段36號
+  rating: '4.2'
+  reviews: '84'
+  latitude: 22.669675484990144
+  longitude: 120.3081674793757
+  description: |-
+    外帶美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前鎮區忠孝東路3段36號
+    評價: 4.2星 (84則評論)
+- name: 推薦銅板美食
+  city: 台北市
+  district: 士林區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市士林區仁愛路1段51號
+  rating: '4.8'
+  reviews: '104'
+  latitude: 25.02145038592319
+  longitude: 121.5276584847801
+  description: |-
+    推薦銅板美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市士林區仁愛路1段51號
+    評價: 4.8星 (104則評論)
+- name: 梅先生麵館
+  city: 新北市
+  district: 汐止區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市汐止區和平東路5段121號
+  rating: '4.7'
+  reviews: '192'
+  latitude: 25.003943785685998
+  longitude: 121.42143097091194
+  description: |-
+    梅先生麵館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市汐止區和平東路5段121號
+    評價: 4.7星 (192則評論)
+- name: 星馬料理專賣店
+  city: 桃園市
+  district: 觀音區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市觀音區辛亥路1段102號
+  rating: '4.6'
+  reviews: '188'
+  latitude: 24.961330397498955
+  longitude: 121.2826888093041
+  description: |-
+    星馬料理專賣店 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市觀音區辛亥路1段102號
+    評價: 4.6星 (188則評論)
+- name: 台北大安店
+  city: 台中市
+  district: 西區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西區基隆路1段170號
+  rating: '4.3'
+  reviews: '133'
+  latitude: 24.098328516962027
+  longitude: 120.7024135059743
+  description: |-
+    台北大安店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西區基隆路1段170號
+    評價: 4.3星 (133則評論)
+- name: 文雅店
+  city: 高雄市
+  district: 左營區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市左營區松江路2段48號
+  rating: '4.4'
+  reviews: '157'
+  latitude: 22.597700885022437
+  longitude: 120.30399184310046
+  description: |-
+    文雅店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市左營區松江路2段48號
+    評價: 4.4星 (157則評論)
+- name: 民族店
+  city: 台北市
+  district: 中山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中山區建國北路3段93號
+  rating: '4.8'
+  reviews: '173'
+  latitude: 24.99689548936121
+  longitude: 121.5797838756425
+  description: |-
+    民族店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中山區建國北路3段93號
+    評價: 4.8星 (173則評論)
+- name: 號轉角咖啡
+  city: 新北市
+  district: 永和區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市永和區信義路1段133號
+  rating: '4.1'
+  reviews: '203'
+  latitude: 25.016298277341765
+  longitude: 121.50206132092518
+  description: |-
+    號轉角咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市永和區信義路1段133號
+    評價: 4.1星 (203則評論)
+- name: 轉角咖啡
+  city: 桃園市
+  district: 蘆竹區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市蘆竹區敦化南路1段111號
+  rating: '4.8'
+  reviews: '116'
+  latitude: 24.978889500016827
+  longitude: 121.34344222918351
+  description: |-
+    轉角咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市蘆竹區敦化南路1段111號
+    評價: 4.8星 (116則評論)
+- name: 武淵堂足體養身親子館
+  city: 台中市
+  district: 西屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西屯區南京東路5段164號
+  rating: '4.7'
+  reviews: '86'
+  latitude: 24.125782589434372
+  longitude: 120.69798841056871
+  description: |-
+    武淵堂足體養身親子館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西屯區南京東路5段164號
+    評價: 4.7星 (86則評論)
+- name: 宜蘭親子館
+  city: 高雄市
+  district: 新興區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市新興區民生東路4段139號
+  rating: '5.0'
+  reviews: '87'
+  latitude: 22.629862510295613
+  longitude: 120.34240364296699
+  description: |-
+    宜蘭親子館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市新興區民生東路4段139號
+    評價: 5.0星 (87則評論)
+- name: 宜蘭養生館
+  city: 台北市
+  district: 萬華區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市萬華區成功路5段143號
+  rating: '4.1'
+  reviews: '171'
+  latitude: 25.00688877265453
+  longitude: 121.5496379315252
+  description: |-
+    宜蘭養生館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市萬華區成功路5段143號
+    評價: 4.1星 (171則評論)
+- name: 老闆是館
+  city: 新北市
+  district: 三峽區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三峽區羅斯福路3段178號
+  rating: '5.0'
+  reviews: '50'
+  latitude: 24.989454742467423
+  longitude: 121.43297656535078
+  description: |-
+    老闆是館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三峽區羅斯福路3段178號
+    評價: 5.0星 (50則評論)
+- name: 號武淵堂養生推拿旗艦館
+  city: 桃園市
+  district: 平鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市平鎮區金門街3段136號
+  rating: '4.2'
+  reviews: '57'
+  latitude: 24.975577981140084
+  longitude: 121.28411329674302
+  description: |-
+    號武淵堂養生推拿旗艦館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市平鎮區金門街3段136號
+    評價: 4.2星 (57則評論)
+- name: 武淵堂養生推拿旗艦館
+  city: 台中市
+  district: 大甲區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市大甲區四維路4段109號
+  rating: '5.0'
+  reviews: '62'
+  latitude: 24.135527758213648
+  longitude: 120.7037440376093
+  description: |-
+    武淵堂養生推拿旗艦館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市大甲區四維路4段109號
+    評價: 5.0星 (62則評論)
+- name: 樓影工坊
+  city: 高雄市
+  district: 鳳山區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鳳山區中正路1段47號
+  rating: '4.5'
+  reviews: '178'
+  latitude: 22.651104779111254
+  longitude: 120.26974300352833
+  description: |-
+    樓影工坊 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鳳山區中正路1段47號
+    評價: 4.5星 (178則評論)
+- name: 新竹韓式
+  city: 台北市
+  district: 信義區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市信義區中山路5段123號
+  rating: '4.3'
+  reviews: '63'
+  latitude: 24.99302127479524
+  longitude: 121.54091353892903
+  description: |-
+    新竹韓式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市信義區中山路5段123號
+    評價: 4.3星 (63則評論)
+- name: 號可味佳蝦捲專賣店
+  city: 新北市
+  district: 三重區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三重區民族路2段167號
+  rating: '4.3'
+  reviews: '58'
+  latitude: 25.01036884613309
+  longitude: 121.4547060540955
+  description: |-
+    號可味佳蝦捲專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三重區民族路2段167號
+    評價: 4.3星 (58則評論)
+- name: 可味佳蝦捲專賣店
+  city: 桃園市
+  district: 大溪區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大溪區建國路5段90號
+  rating: '4.3'
+  reviews: '58'
+  latitude: 24.94502093407506
+  longitude: 121.34544411400995
+  description: |-
+    可味佳蝦捲專賣店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大溪區建國路5段90號
+    評價: 4.3星 (58則評論)
+- name: 號天生好動童鞋運動用品店
+  city: 台中市
+  district: 東區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東區復興路5段107號
+  rating: '4.1'
+  reviews: '196'
+  latitude: 24.155556425700986
+  longitude: 120.62673416817123
+  description: |-
+    號天生好動童鞋運動用品店 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東區復興路5段107號
+    評價: 4.1星 (196則評論)
+- name: 天生好動童鞋運動用品店
+  city: 高雄市
+  district: 鹽埕區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鹽埕區和平路3段53號
+  rating: '4.5'
+  reviews: '199'
+  latitude: 22.57832065602077
+  longitude: 120.34410524592435
+  description: |-
+    天生好動童鞋運動用品店 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鹽埕區和平路3段53號
+    評價: 4.5星 (199則評論)
+- name: 號天生好動運動用品
+  city: 台北市
+  district: 文山區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區忠孝東路4段24號
+  rating: '4.4'
+  reviews: '186'
+  latitude: 25.062033077960674
+  longitude: 121.59592053842573
+  description: |-
+    號天生好動運動用品 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區忠孝東路4段24號
+    評價: 4.4星 (186則評論)
+- name: 天生好動運動用品
+  city: 新北市
+  district: 樹林區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市樹林區仁愛路3段104號
+  rating: '4.6'
+  reviews: '136'
+  latitude: 24.99921619881635
+  longitude: 121.49965467928303
+  description: |-
+    天生好動運動用品 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市樹林區仁愛路3段104號
+    評價: 4.6星 (136則評論)
+- name: 玖肆伍參脆皮雞排台式
+  city: 桃園市
+  district: 八德區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市八德區和平東路5段166號
+  rating: '4.1'
+  reviews: '167'
+  latitude: 24.95846914435693
+  longitude: 121.31729139615176
+  description: |-
+    玖肆伍參脆皮雞排台式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市八德區和平東路5段166號
+    評價: 4.1星 (167則評論)
+- name: 大觀店
+  city: 台中市
+  district: 豐原區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市豐原區辛亥路1段44號
+  rating: '4.7'
+  reviews: '167'
+  latitude: 24.144739895441695
+  longitude: 120.67962596770407
+  description: |-
+    大觀店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市豐原區辛亥路1段44號
+    評價: 4.7星 (167則評論)
+- name: 礁溪店
+  city: 高雄市
+  district: 旗津區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市旗津區基隆路1段10號
+  rating: '4.2'
+  reviews: '79'
+  latitude: 22.634061628729633
+  longitude: 120.32652466149993
+  description: |-
+    礁溪店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市旗津區基隆路1段10號
+    評價: 4.2星 (79則評論)
+- name: 礁溪美食
+  city: 台北市
+  district: 北投區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市北投區松江路1段126號
+  rating: '4.9'
+  reviews: '185'
+  latitude: 25.071778607483417
+  longitude: 121.5424931008585
+  description: |-
+    礁溪美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市北投區松江路1段126號
+    評價: 4.9星 (185則評論)
+- name: 美甲工作室
+  city: 新北市
+  district: 瑞芳區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市瑞芳區建國北路1段27號
+  rating: '4.6'
+  reviews: '109'
+  latitude: 24.963285882436164
+  longitude: 121.49430769887651
+  description: |-
+    美甲工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市瑞芳區建國北路1段27號
+    評價: 4.6星 (109則評論)
+- name: 名洋釣具桃園店
+  city: 桃園市
+  district: 桃園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市桃園區信義路3段80號
+  rating: '4.0'
+  reviews: '151'
+  latitude: 25.02691907706866
+  longitude: 121.26691839324029
+  description: |-
+    名洋釣具桃園店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市桃園區信義路3段80號
+    評價: 4.0星 (151則評論)
+- name: 號富好商場
+  city: 台中市
+  district: 北區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北區敦化南路4段182號
+  rating: '4.3'
+  reviews: '50'
+  latitude: 24.126635184981186
+  longitude: 120.70357227228374
+  description: |-
+    號富好商場 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北區敦化南路4段182號
+    評價: 4.3星 (50則評論)
+- name: 黃昏市場
+  city: 高雄市
+  district: 鼓山區
+  category: 市場
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鼓山區南京東路2段46號
+  rating: '4.1'
+  reviews: '87'
+  latitude: 22.58087512790626
+  longitude: 120.26175220817572
+  description: |-
+    黃昏市場 - 市場
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鼓山區南京東路2段46號
+    評價: 4.1星 (87則評論)
+- name: 富好商場
+  city: 台北市
+  district: 松山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區民生東路1段126號
+  rating: '4.9'
+  reviews: '186'
+  latitude: 25.035495445379883
+  longitude: 121.53330421058371
+  description: |-
+    富好商場 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區民生東路1段126號
+    評價: 4.9星 (186則評論)
+- name: 動窩力健身工作室
+  city: 新北市
+  district: 新莊區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新莊區成功路5段23號
+  rating: '4.9'
+  reviews: '135'
+  latitude: 24.978489724904588
+  longitude: 121.43065874874598
+  description: |-
+    動窩力健身工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新莊區成功路5段23號
+    評價: 4.9星 (135則評論)
+- name: 士林旗艦店
+  city: 桃園市
+  district: 大園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大園區羅斯福路4段8號
+  rating: '4.4'
+  reviews: '84'
+  latitude: 25.015323323912067
+  longitude: 121.32841878593328
+  description: |-
+    士林旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大園區羅斯福路4段8號
+    評價: 4.4星 (84則評論)
+- name: 原瘋三鐵新竹分店
+  city: 台中市
+  district: 南屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南屯區金門街5段173號
+  rating: '4.5'
+  reviews: '190'
+  latitude: 24.15426915518172
+  longitude: 120.68834710591568
+  description: |-
+    原瘋三鐵新竹分店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南屯區金門街5段173號
+    評價: 4.5星 (190則評論)
+- name: 燙髮專門店
+  city: 高雄市
+  district: 苓雅區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市苓雅區四維路1段45號
+  rating: '4.6'
+  reviews: '106'
+  latitude: 22.617403762463237
+  longitude: 120.25225381705393
+  description: |-
+    燙髮專門店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市苓雅區四維路1段45號
+    評價: 4.6星 (106則評論)
+- name: 聞湘小館
+  city: 台北市
+  district: 大同區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大同區中正路5段134號
+  rating: '4.2'
+  reviews: '134'
+  latitude: 25.009052297335025
+  longitude: 121.55404143541288
+  description: |-
+    聞湘小館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大同區中正路5段134號
+    評價: 4.2星 (134則評論)
+- name: 素食餐館
+  city: 新北市
+  district: 淡水區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市淡水區中山路5段35號
+  rating: '4.6'
+  reviews: '182'
+  latitude: 25.043908556410823
+  longitude: 121.50178214641143
+  description: |-
+    素食餐館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市淡水區中山路5段35號
+    評價: 4.6星 (182則評論)
+- name: 士林店
+  city: 桃園市
+  district: 新屋區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市新屋區民族路3段89號
+  rating: '4.6'
+  reviews: '114'
+  latitude: 24.971402547075066
+  longitude: 121.32914754239044
+  description: |-
+    士林店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市新屋區民族路3段89號
+    評價: 4.6星 (114則評論)
+- name: 小草店
+  city: 台中市
+  district: 清水區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市清水區建國路3段153號
+  rating: '4.4'
+  reviews: '201'
+  latitude: 24.13104847578483
+  longitude: 120.67780307052982
+  description: |-
+    小草店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市清水區建國路3段153號
+    評價: 4.4星 (201則評論)
+- name: 新泰店
+  city: 高雄市
+  district: 楠梓區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市楠梓區復興路5段60號
+  rating: '4.3'
+  reviews: '240'
+  latitude: 22.631868732212588
+  longitude: 120.31058788092554
+  description: |-
+    新泰店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市楠梓區復興路5段60號
+    評價: 4.3星 (240則評論)
+- name: 知名柯粉網紅丁特的店
+  city: 台北市
+  district: 大安區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大安區和平路4段70號
+  rating: '4.3'
+  reviews: '177'
+  latitude: 24.983712906059672
+  longitude: 121.55095386083063
+  description: |-
+    知名柯粉網紅丁特的店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大安區和平路4段70號
+    評價: 4.3星 (177則評論)
+- name: 老闆是草而且也是館
+  city: 新北市
+  district: 中和區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市中和區忠孝東路1段105號
+  rating: '4.3'
+  reviews: '212'
+  latitude: 25.007733161219264
+  longitude: 121.4491976206133
+  description: |-
+    老闆是草而且也是館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市中和區忠孝東路1段105號
+    評價: 4.3星 (212則評論)
+- name: 都提咖啡
+  city: 桃園市
+  district: 楊梅區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市楊梅區仁愛路2段194號
+  rating: '4.9'
+  reviews: '231'
+  latitude: 25.013632525376323
+  longitude: 121.27040136528117
+  description: |-
+    都提咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市楊梅區仁愛路2段194號
+    評價: 4.9星 (231則評論)
+- name: 號永慶不動產機捷敦富春賞店
+  city: 台中市
+  district: 中區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市中區和平東路2段79號
+  rating: '4.6'
+  reviews: '172'
+  latitude: 24.1034760144569
+  longitude: 120.64770439655213
+  description: |-
+    號永慶不動產機捷敦富春賞店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市中區和平東路2段79號
+    評價: 4.6星 (172則評論)
+- name: 永慶不動產機捷敦富春賞店
+  city: 高雄市
+  district: 前金區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前金區辛亥路2段73號
+  rating: '4.7'
+  reviews: '212'
+  latitude: 22.626687341060524
+  longitude: 120.32034590344465
+  description: |-
+    永慶不動產機捷敦富春賞店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前金區辛亥路2段73號
+    評價: 4.7星 (212則評論)
+- name: 烏邦圖書店
+  city: 台北市
+  district: 中正區
+  category: 書店
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中正區基隆路5段86號
+  rating: '4.6'
+  reviews: '77'
+  latitude: 25.07081625546271
+  longitude: 121.53617760365213
+  description: |-
+    烏邦圖書店 - 書店
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中正區基隆路5段86號
+    評價: 4.6星 (77則評論)
+- name: 總圖店
+  city: 新北市
+  district: 鶯歌區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市鶯歌區松江路4段66號
+  rating: '4.6'
+  reviews: '222'
+  latitude: 25.04829768642935
+  longitude: 121.46293028558102
+  description: |-
+    總圖店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市鶯歌區松江路4段66號
+    評價: 4.6星 (222則評論)
+- name: 號烏邦圖書店
+  city: 桃園市
+  district: 龍潭區
+  category: 書店
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龍潭區建國北路5段89號
+  rating: '4.1'
+  reviews: '125'
+  latitude: 25.021706313159235
+  longitude: 121.32518602755896
+  description: |-
+    號烏邦圖書店 - 書店
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龍潭區建國北路5段89號
+    評價: 4.1星 (125則評論)
+- name: 環河店
+  city: 台中市
+  district: 東勢區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東勢區信義路5段124號
+  rating: '4.2'
+  reviews: '55'
+  latitude: 24.17657483501861
+  longitude: 120.65017589988527
+  description: |-
+    環河店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東勢區信義路5段124號
+    評價: 4.2星 (55則評論)
+- name: 林森北創始店
+  city: 高雄市
+  district: 小港區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市小港區敦化南路2段59號
+  rating: '4.4'
+  reviews: '77'
+  latitude: 22.592119455872066
+  longitude: 120.26424284963471
+  description: |-
+    林森北創始店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市小港區敦化南路2段59號
+    評價: 4.4星 (77則評論)
+- name: 台北美食
+  city: 台北市
+  district: 南港區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市南港區南京東路1段95號
+  rating: '4.6'
+  reviews: '90'
+  latitude: 25.05792620698974
+  longitude: 121.57381569093522
+  description: |-
+    台北美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市南港區南京東路1段95號
+    評價: 4.6星 (90則評論)
+- name: 而在其他餐廳
+  city: 新北市
+  district: 板橋區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市板橋區民生東路5段15號
+  rating: '4.0'
+  reviews: '108'
+  latitude: 25.054054815673002
+  longitude: 121.45055318948503
+  description: |-
+    而在其他餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市板橋區民生東路5段15號
+    評價: 4.0星 (108則評論)
+- name: 號吃茶三千台灣概念店
+  city: 桃園市
+  district: 中壢區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市中壢區成功路1段34號
+  rating: '4.2'
+  reviews: '153'
+  latitude: 24.95737215656624
+  longitude: 121.34644678931544
+  description: |-
+    號吃茶三千台灣概念店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市中壢區成功路1段34號
+    評價: 4.2星 (153則評論)
+- name: 吃茶三千台灣概念店
+  city: 台中市
+  district: 南區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南區羅斯福路3段19號
+  rating: '4.7'
+  reviews: '195'
+  latitude: 24.177170590391952
+  longitude: 120.68155544724975
+  description: |-
+    吃茶三千台灣概念店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南區羅斯福路3段19號
+    評價: 4.7星 (195則評論)
+- name: 尚宸婚紗工作室
+  city: 高雄市
+  district: 三民區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市三民區金門街1段13號
+  rating: '4.4'
+  reviews: '161'
+  latitude: 22.5792850976394
+  longitude: 120.2830566737562
+  description: |-
+    尚宸婚紗工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市三民區金門街1段13號
+    評價: 4.4星 (161則評論)
+- name: 理解咖啡
+  city: 台北市
+  district: 內湖區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市內湖區四維路4段103號
+  rating: '4.2'
+  reviews: '90'
+  latitude: 25.073473482761468
+  longitude: 121.6103425886454
+  description: |-
+    理解咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市內湖區四維路4段103號
+    評價: 4.2星 (90則評論)
+- name: 深夜咖啡
+  city: 新北市
+  district: 新店區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新店區中正路5段4號
+  rating: '4.7'
+  reviews: '141'
+  latitude: 25.035472996007446
+  longitude: 121.50606646954523
+  description: |-
+    深夜咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新店區中正路5段4號
+    評價: 4.7星 (141則評論)
+- name: 對罷免團體不友善的店
+  city: 桃園市
+  district: 龜山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龜山區中山路1段86號
+  rating: '4.8'
+  reviews: '63'
+  latitude: 24.946407395393205
+  longitude: 121.3506487687333
+  description: |-
+    對罷免團體不友善的店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龜山區中山路1段86號
+    評價: 4.8星 (63則評論)
+- name: 號暘谷足體養生會館
+  city: 台中市
+  district: 北屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北屯區民族路5段104號
+  rating: '4.5'
+  reviews: '176'
+  latitude: 24.100546330354515
+  longitude: 120.63059485044343
+  description: |-
+    號暘谷足體養生會館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北屯區民族路5段104號
+    評價: 4.5星 (176則評論)
+- name: 暘谷足體養生會館
+  city: 高雄市
+  district: 前鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前鎮區建國路2段57號
+  rating: '4.4'
+  reviews: '226'
+  latitude: 22.616835491354472
+  longitude: 120.2634661282828
+  description: |-
+    暘谷足體養生會館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前鎮區建國路2段57號
+    評價: 4.4星 (226則評論)
+- name: 號藍公館
+  city: 台北市
+  district: 士林區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市士林區復興路1段81號
+  rating: '4.2'
+  reviews: '197'
+  latitude: 24.986931907371684
+  longitude: 121.6099531203618
+  description: |-
+    號藍公館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市士林區復興路1段81號
+    評價: 4.2星 (197則評論)
+- name: 藍公館
+  city: 新北市
+  district: 汐止區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市汐止區和平路3段138號
+  rating: '4.1'
+  reviews: '118'
+  latitude: 25.006215026547398
+  longitude: 121.43600126866835
+  description: |-
+    藍公館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市汐止區和平路3段138號
+    評價: 4.1星 (118則評論)
+- name: 號安靜小酒館
+  city: 桃園市
+  district: 觀音區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市觀音區忠孝東路4段9號
+  rating: '4.1'
+  reviews: '155'
+  latitude: 24.95357242377086
+  longitude: 121.28263682538581
+  description: |-
+    號安靜小酒館 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市觀音區忠孝東路4段9號
+    評價: 4.1星 (155則評論)
+- name: 安靜小酒館
+  city: 台中市
+  district: 西區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西區仁愛路2段3號
+  rating: '4.9'
+  reviews: '88'
+  latitude: 24.106588331878314
+  longitude: 120.68808803774114
+  description: |-
+    安靜小酒館 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西區仁愛路2段3號
+    評價: 4.9星 (88則評論)
+- name: 這間店
+  city: 高雄市
+  district: 左營區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市左營區和平東路3段128號
+  rating: '4.6'
+  reviews: '82'
+  latitude: 22.588032135552023
+  longitude: 120.33800690059995
+  description: |-
+    這間店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市左營區和平東路3段128號
+    評價: 4.6星 (82則評論)
+- name: 天母店
+  city: 台北市
+  district: 中山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中山區辛亥路3段80號
+  rating: '4.9'
+  reviews: '112'
+  latitude: 25.076292689275945
+  longitude: 121.52128923116223
+  description: |-
+    天母店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中山區辛亥路3段80號
+    評價: 4.9星 (112則評論)
+- name: 微風南山店
+  city: 新北市
+  district: 永和區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市永和區基隆路3段134號
+  rating: '4.2'
+  reviews: '71'
+  latitude: 25.03066738902515
+  longitude: 121.42255277906465
+  description: |-
+    微風南山店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市永和區基隆路3段134號
+    評價: 4.2星 (71則評論)
+- name: 京站店
+  city: 桃園市
+  district: 蘆竹區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市蘆竹區松江路2段13號
+  rating: '4.3'
+  reviews: '209'
+  latitude: 24.955057613520374
+  longitude: 121.29006132497898
+  description: |-
+    京站店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市蘆竹區松江路2段13號
+    評價: 4.3星 (209則評論)
+- name: 神諭咖啡
+  city: 台中市
+  district: 西屯區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西屯區建國北路1段150號
+  rating: '4.2'
+  reviews: '202'
+  latitude: 24.152917684348573
+  longitude: 120.64095098501699
+  description: |-
+    神諭咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西屯區建國北路1段150號
+    評價: 4.2星 (202則評論)
+- name: 台中大城店
+  city: 高雄市
+  district: 新興區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市新興區信義路4段101號
+  rating: '4.2'
+  reviews: '186'
+  latitude: 22.67594787792542
+  longitude: 120.28388840792144
+  description: |-
+    台中大城店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市新興區信義路4段101號
+    評價: 4.2星 (186則評論)
+- name: 駁二店
+  city: 台北市
+  district: 萬華區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市萬華區敦化南路1段26號
+  rating: '4.3'
+  reviews: '176'
+  latitude: 25.00301267692944
+  longitude: 121.54322369056102
+  description: |-
+    駁二店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市萬華區敦化南路1段26號
+    評價: 4.3星 (176則評論)
+- name: 鳳山店
+  city: 新北市
+  district: 三峽區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三峽區南京東路2段78號
+  rating: '4.5'
+  reviews: '178'
+  latitude: 24.988739370074533
+  longitude: 121.42617669556249
+  description: |-
+    鳳山店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三峽區南京東路2段78號
+    評價: 4.5星 (178則評論)
+- name: 老屋咖啡
+  city: 桃園市
+  district: 平鎮區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市平鎮區民生東路1段14號
+  rating: '4.5'
+  reviews: '171'
+  latitude: 25.031893884398706
+  longitude: 121.32475939263063
+  description: |-
+    老屋咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市平鎮區民生東路1段14號
+    評價: 4.5星 (171則評論)
+- name: 號黑矸仔咖啡
+  city: 台中市
+  district: 大甲區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市大甲區成功路5段186號
+  rating: '4.7'
+  reviews: '70'
+  latitude: 24.178736148046287
+  longitude: 120.70721630385871
+  description: |-
+    號黑矸仔咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市大甲區成功路5段186號
+    評價: 4.7星 (70則評論)
+- name: 黑矸仔咖啡
+  city: 高雄市
+  district: 鳳山區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鳳山區羅斯福路1段85號
+  rating: '5.0'
+  reviews: '54'
+  latitude: 22.579284349302167
+  longitude: 120.28066062513007
+  description: |-
+    黑矸仔咖啡 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鳳山區羅斯福路1段85號
+    評價: 5.0星 (54則評論)
+- name: 台中店
+  city: 台北市
+  district: 信義區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市信義區金門街4段175號
+  rating: '4.5'
+  reviews: '57'
+  latitude: 25.002886734203376
+  longitude: 121.53175166130941
+  description: |-
+    台中店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市信義區金門街4段175號
+    評價: 4.5星 (57則評論)
+- name: 台北店
+  city: 新北市
+  district: 三重區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三重區四維路4段149號
+  rating: '4.0'
+  reviews: '162'
+  latitude: 25.013044886421092
+  longitude: 121.44434277527421
+  description: |-
+    台北店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三重區四維路4段149號
+    評價: 4.0星 (162則評論)
+- name: 號湯馨麵食館
+  city: 桃園市
+  district: 大溪區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大溪區中正路5段119號
+  rating: '4.6'
+  reviews: '174'
+  latitude: 25.029316935162964
+  longitude: 121.28376945498039
+  description: |-
+    號湯馨麵食館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大溪區中正路5段119號
+    評價: 4.6星 (174則評論)
+- name: 湯馨麵食館
+  city: 台中市
+  district: 東區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東區中山路1段5號
+  rating: '4.7'
+  reviews: '158'
+  latitude: 24.195991479715794
+  longitude: 120.68174714927736
+  description: |-
+    湯馨麵食館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東區中山路1段5號
+    評價: 4.7星 (158則評論)
+- name: 三元店
+  city: 高雄市
+  district: 鹽埕區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鹽埕區民族路2段74號
+  rating: '4.4'
+  reviews: '140'
+  latitude: 22.65376923814423
+  longitude: 120.30900504070163
+  description: |-
+    三元店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鹽埕區民族路2段74號
+    評價: 4.4星 (140則評論)
+- name: 公開表態是草的周午星是前任店
+  city: 台北市
+  district: 文山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區建國路4段50號
+  rating: '4.4'
+  reviews: '139'
+  latitude: 25.02070472858023
+  longitude: 121.60064865528034
+  description: |-
+    公開表態是草的周午星是前任店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區建國路4段50號
+    評價: 4.4星 (139則評論)
+- name: 負責人和現任店
+  city: 新北市
+  district: 樹林區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市樹林區復興路5段143號
+  rating: '4.7'
+  reviews: '75'
+  latitude: 25.031254627035317
+  longitude: 121.45694246666993
+  description: |-
+    負責人和現任店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市樹林區復興路5段143號
+    評價: 4.7星 (75則評論)
+- name: 河南店
+  city: 桃園市
+  district: 八德區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市八德區和平路2段56號
+  rating: '4.0'
+  reviews: '165'
+  latitude: 24.974409824137897
+  longitude: 121.273254302389
+  description: |-
+    河南店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市八德區和平路2段56號
+    評價: 4.0星 (165則評論)
+- name: 信義店
+  city: 台中市
+  district: 豐原區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市豐原區忠孝東路4段191號
+  rating: '4.5'
+  reviews: '111'
+  latitude: 24.17387471154097
+  longitude: 120.70481432032715
+  description: |-
+    信義店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市豐原區忠孝東路4段191號
+    評價: 4.5星 (111則評論)
+- name: 新生店
+  city: 高雄市
+  district: 旗津區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市旗津區仁愛路1段18號
+  rating: '4.7'
+  reviews: '230'
+  latitude: 22.612960185328916
+  longitude: 120.26038466643905
+  description: |-
+    新生店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市旗津區仁愛路1段18號
+    評價: 4.7星 (230則評論)
+- name: 有巢氏淡水鄧公頭家加盟店
+  city: 台北市
+  district: 北投區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市北投區和平東路1段132號
+  rating: '4.9'
+  reviews: '183'
+  latitude: 25.07899942277916
+  longitude: 121.54367098470514
+  description: |-
+    有巢氏淡水鄧公頭家加盟店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市北投區和平東路1段132號
+    評價: 4.9星 (183則評論)
+- name: 大雅總店
+  city: 新北市
+  district: 瑞芳區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市瑞芳區辛亥路4段34號
+  rating: '4.1'
+  reviews: '75'
+  latitude: 24.962079954539128
+  longitude: 121.49312017063733
+  description: |-
+    大雅總店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市瑞芳區辛亥路4段34號
+    評價: 4.1星 (75則評論)
+- name: 公益店
+  city: 桃園市
+  district: 桃園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市桃園區基隆路3段2號
+  rating: '4.7'
+  reviews: '240'
+  latitude: 25.0040663486871
+  longitude: 121.32147543734771
+  description: |-
+    公益店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市桃園區基隆路3段2號
+    評價: 4.7星 (240則評論)
+- name: 工學店
+  city: 台中市
+  district: 北區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北區松江路3段77號
+  rating: '4.3'
+  reviews: '147'
+  latitude: 24.122023258434254
+  longitude: 120.70768760481526
+  description: |-
+    工學店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北區松江路3段77號
+    評價: 4.3星 (147則評論)
+- name: 中山店
+  city: 高雄市
+  district: 鼓山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鼓山區建國北路1段100號
+  rating: '4.7'
+  reviews: '78'
+  latitude: 22.596936778975707
+  longitude: 120.32079582807029
+  description: |-
+    中山店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鼓山區建國北路1段100號
+    評價: 4.7星 (78則評論)
+- name: 黑橋牌香腸博物館
+  city: 台北市
+  district: 松山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區信義路3段188號
+  rating: '4.7'
+  reviews: '96'
+  latitude: 25.02761591221647
+  longitude: 121.61507884285462
+  description: |-
+    黑橋牌香腸博物館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區信義路3段188號
+    評價: 4.7星 (96則評論)
+- name: 奇美博物館
+  city: 新北市
+  district: 新莊區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新莊區敦化南路3段58號
+  rating: '4.2'
+  reviews: '177'
+  latitude: 25.005091974466183
+  longitude: 121.41925987535689
+  description: |-
+    奇美博物館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新莊區敦化南路3段58號
+    評價: 4.2星 (177則評論)
+- name: 公園店
+  city: 桃園市
+  district: 大園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大園區南京東路2段126號
+  rating: '4.9'
+  reviews: '150'
+  latitude: 25.01911110232232
+  longitude: 121.30255976873045
+  description: |-
+    公園店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大園區南京東路2段126號
+    評價: 4.9星 (150則評論)
+- name: 號黑橋牌香腸博物館
+  city: 台中市
+  district: 南屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南屯區民生東路4段77號
+  rating: '4.2'
+  reviews: '58'
+  latitude: 24.172327881348867
+  longitude: 120.66374097134602
+  description: |-
+    號黑橋牌香腸博物館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南屯區民生東路4段77號
+    評價: 4.2星 (58則評論)
+- name: 客人回報老闆以店
+  city: 高雄市
+  district: 苓雅區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市苓雅區成功路5段196號
+  rating: '4.3'
+  reviews: '169'
+  latitude: 22.58070842084787
+  longitude: 120.34040473200866
+  description: |-
+    客人回報老闆以店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市苓雅區成功路5段196號
+    評價: 4.3星 (169則評論)
+- name: 一中店
+  city: 台北市
+  district: 大同區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大同區羅斯福路3段177號
+  rating: '4.7'
+  reviews: '75'
+  latitude: 25.014217775869774
+  longitude: 121.55320292037244
+  description: |-
+    一中店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大同區羅斯福路3段177號
+    評價: 4.7星 (75則評論)
+- name: 之前店
+  city: 新北市
+  district: 淡水區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市淡水區金門街1段178號
+  rating: '4.5'
+  reviews: '234'
+  latitude: 24.978588835331966
+  longitude: 121.43180006914577
+  description: |-
+    之前店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市淡水區金門街1段178號
+    評價: 4.5星 (234則評論)
+- name: 寵物友善餐廳
+  city: 桃園市
+  district: 新屋區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市新屋區四維路3段149號
+  rating: '4.5'
+  reviews: '101'
+  latitude: 24.986345395109158
+  longitude: 121.27042920541092
+  description: |-
+    寵物友善餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市新屋區四維路3段149號
+    評價: 4.5星 (101則評論)
+- name: 台肌殿健身工作室
+  city: 台中市
+  district: 清水區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市清水區中正路5段182號
+  rating: '4.1'
+  reviews: '82'
+  latitude: 24.103377404965396
+  longitude: 120.66430113370097
+  description: |-
+    台肌殿健身工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市清水區中正路5段182號
+    評價: 4.1星 (82則評論)
+- name: 木可兒繪畫工作室
+  city: 高雄市
+  district: 楠梓區
+  category: 工坊
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市楠梓區中山路2段119號
+  rating: '4.9'
+  reviews: '147'
+  latitude: 22.611065310625165
+  longitude: 120.29961985635622
+  description: |-
+    木可兒繪畫工作室 - 工坊
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市楠梓區中山路2段119號
+    評價: 4.9星 (147則評論)
+- name: 台中市北區博館
+  city: 台北市
+  district: 大安區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大安區民族路5段95號
+  rating: '4.8'
+  reviews: '125'
+  latitude: 25.04875561959613
+  longitude: 121.61011756380937
+  description: |-
+    台中市北區博館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大安區民族路5段95號
+    評價: 4.8星 (125則評論)
+- name: 號東北麵食館
+  city: 新北市
+  district: 中和區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市中和區建國路2段198號
+  rating: '5.0'
+  reviews: '126'
+  latitude: 24.964106668616488
+  longitude: 121.47641154122213
+  description: |-
+    號東北麵食館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市中和區建國路2段198號
+    評價: 5.0星 (126則評論)
+- name: 東北麵食館
+  city: 桃園市
+  district: 楊梅區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市楊梅區復興路2段85號
+  rating: '4.3'
+  reviews: '199'
+  latitude: 25.010555394393396
+  longitude: 121.26352717859707
+  description: |-
+    東北麵食館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市楊梅區復興路2段85號
+    評價: 4.3星 (199則評論)
+- name: 閣樓餐酒館
+  city: 台中市
+  district: 中區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市中區和平路5段59號
+  rating: '4.8'
+  reviews: '182'
+  latitude: 24.184304765492698
+  longitude: 120.69396804124557
+  description: |-
+    閣樓餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市中區和平路5段59號
+    評價: 4.8星 (182則評論)
+- name: 景觀餐廳
+  city: 高雄市
+  district: 前金區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前金區忠孝東路5段78號
+  rating: '4.1'
+  reviews: '239'
+  latitude: 22.645698548232083
+  longitude: 120.28721073991132
+  description: |-
+    景觀餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前金區忠孝東路5段78號
+    評價: 4.1星 (239則評論)
+- name: 板橋餐酒館
+  city: 台北市
+  district: 中正區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中正區仁愛路4段40號
+  rating: '4.1'
+  reviews: '89'
+  latitude: 25.01320622463772
+  longitude: 121.5399382696647
+  description: |-
+    板橋餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中正區仁愛路4段40號
+    評價: 4.1星 (89則評論)
+- name: 義大利麵歐陸料理
+  city: 新北市
+  district: 鶯歌區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市鶯歌區和平東路5段8號
+  rating: '4.8'
+  reviews: '205'
+  latitude: 25.04348277454769
+  longitude: 121.46039140029038
+  description: |-
+    義大利麵歐陸料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市鶯歌區和平東路5段8號
+    評價: 4.8星 (205則評論)
+- name: 南洋餐酒館
+  city: 桃園市
+  district: 龍潭區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龍潭區辛亥路2段89號
+  rating: '4.1'
+  reviews: '78'
+  latitude: 25.026546929624846
+  longitude: 121.2613723496023
+  description: |-
+    南洋餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龍潭區辛亥路2段89號
+    評價: 4.1星 (78則評論)
+- name: 大安區餐酒館
+  city: 台中市
+  district: 東勢區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東勢區基隆路5段50號
+  rating: '5.0'
+  reviews: '104'
+  latitude: 24.11563624093312
+  longitude: 120.68010766504318
+  description: |-
+    大安區餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東勢區基隆路5段50號
+    評價: 5.0星 (104則評論)
+- name: 泰國料理
+  city: 高雄市
+  district: 小港區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市小港區松江路1段29號
+  rating: '4.3'
+  reviews: '221'
+  latitude: 22.6120219269638
+  longitude: 120.32933514411576
+  description: |-
+    泰國料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市小港區松江路1段29號
+    評價: 4.3星 (221則評論)
+- name: 越南料理
+  city: 台北市
+  district: 南港區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市南港區建國北路2段13號
+  rating: '4.4'
+  reviews: '150'
+  latitude: 24.99505810739166
+  longitude: 121.54384975323049
+  description: |-
+    越南料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市南港區建國北路2段13號
+    評價: 4.4星 (150則評論)
+- name: 聚餐包場推薦餐廳
+  city: 新北市
+  district: 板橋區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市板橋區信義路3段16號
+  rating: '4.0'
+  reviews: '102'
+  latitude: 25.013292557319602
+  longitude: 121.43488007664
+  description: |-
+    聚餐包場推薦餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市板橋區信義路3段16號
+    評價: 4.0星 (102則評論)
+- name: 基隆美食
+  city: 桃園市
+  district: 中壢區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市中壢區敦化南路4段62號
+  rating: '4.2'
+  reviews: '243'
+  latitude: 25.025098932989284
+  longitude: 121.26821261385714
+  description: |-
+    基隆美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市中壢區敦化南路4段62號
+    評價: 4.2星 (243則評論)
+- name: 韓式餐酒館
+  city: 台中市
+  district: 南區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南區南京東路3段142號
+  rating: '4.8'
+  reviews: '180'
+  latitude: 24.118022549335283
+  longitude: 120.71944333248771
+  description: |-
+    韓式餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南區南京東路3段142號
+    評價: 4.8星 (180則評論)
+- name: 板橋店
+  city: 高雄市
+  district: 三民區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市三民區民生東路3段198號
+  rating: '4.9'
+  reviews: '139'
+  latitude: 22.61068885028925
+  longitude: 120.2950902496446
+  description: |-
+    板橋店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市三民區民生東路3段198號
+    評價: 4.9星 (139則評論)
+- name: 加勒比海餐酒館
+  city: 台北市
+  district: 內湖區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市內湖區成功路5段197號
+  rating: '4.9'
+  reviews: '51'
+  latitude: 24.986720140526323
+  longitude: 121.57447994981038
+  description: |-
+    加勒比海餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市內湖區成功路5段197號
+    評價: 4.9星 (51則評論)
+- name: 竹北旗艦店
+  city: 新北市
+  district: 新店區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新店區羅斯福路1段123號
+  rating: '4.7'
+  reviews: '143'
+  latitude: 25.05596391716985
+  longitude: 121.45120748382925
+  description: |-
+    竹北旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新店區羅斯福路1段123號
+    評價: 4.7星 (143則評論)
+- name: 竹北美食
+  city: 桃園市
+  district: 龜山區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市龜山區金門街3段180號
+  rating: '4.6'
+  reviews: '105'
+  latitude: 24.962546008325017
+  longitude: 121.27677763295875
+  description: |-
+    竹北美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市龜山區金門街3段180號
+    評價: 4.6星 (105則評論)
+- name: 異國料理
+  city: 台中市
+  district: 北屯區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北屯區四維路4段92號
+  rating: '4.2'
+  reviews: '210'
+  latitude: 24.101556643654476
+  longitude: 120.6352006419575
+  description: |-
+    異國料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北屯區四維路4段92號
+    評價: 4.2星 (210則評論)
+- name: 台北忠孝店
+  city: 高雄市
+  district: 前鎮區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市前鎮區中正路3段49號
+  rating: '4.5'
+  reviews: '92'
+  latitude: 22.630686238052377
+  longitude: 120.33193237774715
+  description: |-
+    台北忠孝店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市前鎮區中正路3段49號
+    評價: 4.5星 (92則評論)
+- name: 大安區美食
+  city: 台北市
+  district: 士林區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市士林區中山路2段8號
+  rating: '4.0'
+  reviews: '216'
+  latitude: 25.077395538638385
+  longitude: 121.5732620007377
+  description: |-
+    大安區美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市士林區中山路2段8號
+    評價: 4.0星 (216則評論)
+- name: 聚餐宵夜包場
+  city: 新北市
+  district: 汐止區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市汐止區民族路4段181號
+  rating: '4.7'
+  reviews: '103'
+  latitude: 24.968351052557146
+  longitude: 121.51247105843372
+  description: |-
+    聚餐宵夜包場 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市汐止區民族路4段181號
+    評價: 4.7星 (103則評論)
+- name: 精釀啤酒餐廳
+  city: 桃園市
+  district: 觀音區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市觀音區建國路3段16號
+  rating: '4.3'
+  reviews: '209'
+  latitude: 24.96805613590041
+  longitude: 121.33674372485457
+  description: |-
+    精釀啤酒餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市觀音區建國路3段16號
+    評價: 4.3星 (209則評論)
+- name: 串串啤酒館
+  city: 台中市
+  district: 西區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西區復興路3段157號
+  rating: '4.3'
+  reviews: '77'
+  latitude: 24.19687374419258
+  longitude: 120.70967345716525
+  description: |-
+    串串啤酒館 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西區復興路3段157號
+    評價: 4.3星 (77則評論)
+- name: 西門店
+  city: 高雄市
+  district: 左營區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市左營區和平路1段36號
+  rating: '4.4'
+  reviews: '119'
+  latitude: 22.65732747068467
+  longitude: 120.27815346907452
+  description: |-
+    西門店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市左營區和平路1段36號
+    評價: 4.4星 (119則評論)
+- name: 西門美食
+  city: 台北市
+  district: 中山區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中山區忠孝東路4段36號
+  rating: '4.4'
+  reviews: '165'
+  latitude: 25.001628845161925
+  longitude: 121.55378015054737
+  description: |-
+    西門美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中山區忠孝東路4段36號
+    評價: 4.4星 (165則評論)
+- name: 宵夜聚餐
+  city: 新北市
+  district: 永和區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市永和區仁愛路1段176號
+  rating: '4.5'
+  reviews: '155'
+  latitude: 25.014992794510658
+  longitude: 121.49698763907926
+  description: |-
+    宵夜聚餐 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市永和區仁愛路1段176號
+    評價: 4.5星 (155則評論)
+- name: 日式居酒館
+  city: 桃園市
+  district: 蘆竹區
+  category: 酒吧
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市蘆竹區和平東路5段61號
+  rating: '4.7'
+  reviews: '178'
+  latitude: 25.024836796299255
+  longitude: 121.25443645263158
+  description: |-
+    日式居酒館 - 酒吧
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市蘆竹區和平東路5段61號
+    評價: 4.7星 (178則評論)
+- name: 林口長庚店
+  city: 台中市
+  district: 西屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市西屯區辛亥路2段108號
+  rating: '4.1'
+  reviews: '98'
+  latitude: 24.159380008471235
+  longitude: 120.63554000294252
+  description: |-
+    林口長庚店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市西屯區辛亥路2段108號
+    評價: 4.1星 (98則評論)
+- name: 日式料理
+  city: 高雄市
+  district: 新興區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市新興區基隆路2段94號
+  rating: '4.1'
+  reviews: '105'
+  latitude: 22.674716219997546
+  longitude: 120.26237412793017
+  description: |-
+    日式料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市新興區基隆路2段94號
+    評價: 4.1星 (105則評論)
+- name: 林口美食
+  city: 台北市
+  district: 萬華區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市萬華區松江路2段140號
+  rating: '4.1'
+  reviews: '64'
+  latitude: 25.014940098315172
+  longitude: 121.58973207470078
+  description: |-
+    林口美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市萬華區松江路2段140號
+    評價: 4.1星 (64則評論)
+- name: 鐵板料理
+  city: 新北市
+  district: 三峽區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三峽區建國北路4段130號
+  rating: '4.8'
+  reviews: '180'
+  latitude: 25.004470430416845
+  longitude: 121.46529864726375
+  description: |-
+    鐵板料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三峽區建國北路4段130號
+    評價: 4.8星 (180則評論)
+- name: 聚餐精釀啤酒餐廳
+  city: 桃園市
+  district: 平鎮區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市平鎮區信義路4段49號
+  rating: '4.7'
+  reviews: '115'
+  latitude: 25.004312528731226
+  longitude: 121.30914796918279
+  description: |-
+    聚餐精釀啤酒餐廳 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市平鎮區信義路4段49號
+    評價: 4.7星 (115則評論)
+- name: 中山站美食
+  city: 台中市
+  district: 大甲區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市大甲區敦化南路1段156號
+  rating: '4.7'
+  reviews: '171'
+  latitude: 24.180770088456196
+  longitude: 120.67685040351584
+  description: |-
+    中山站美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市大甲區敦化南路1段156號
+    評價: 4.7星 (171則評論)
+- name: 地中海餐酒館
+  city: 高雄市
+  district: 鳳山區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鳳山區南京東路3段149號
+  rating: '4.3'
+  reviews: '123'
+  latitude: 22.599907076498198
+  longitude: 120.29823310912532
+  description: |-
+    地中海餐酒館 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鳳山區南京東路3段149號
+    評價: 4.3星 (123則評論)
+- name: 林口旗艦店
+  city: 台北市
+  district: 信義區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市信義區民生東路5段34號
+  rating: '4.4'
+  reviews: '192'
+  latitude: 25.043139361080225
+  longitude: 121.52758489018336
+  description: |-
+    林口旗艦店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市信義區民生東路5段34號
+    評價: 4.4星 (192則評論)
+- name: 地中海料理
+  city: 新北市
+  district: 三重區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市三重區成功路1段119號
+  rating: '4.6'
+  reviews: '167'
+  latitude: 24.972989059319296
+  longitude: 121.41552216934089
+  description: |-
+    地中海料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市三重區成功路1段119號
+    評價: 4.6星 (167則評論)
+- name: 西班牙料理
+  city: 桃園市
+  district: 大溪區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大溪區羅斯福路4段122號
+  rating: '4.6'
+  reviews: '218'
+  latitude: 25.00345487256079
+  longitude: 121.27670364791078
+  description: |-
+    西班牙料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大溪區羅斯福路4段122號
+    評價: 4.6星 (218則評論)
+- name: 義式料理
+  city: 台中市
+  district: 東區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市東區金門街4段108號
+  rating: '4.6'
+  reviews: '54'
+  latitude: 24.162065142627736
+  longitude: 120.67529494941216
+  description: |-
+    義式料理 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市東區金門街4段108號
+    評價: 4.6星 (54則評論)
+- name: 聚餐約會包場
+  city: 高雄市
+  district: 鹽埕區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鹽埕區四維路1段96號
+  rating: '4.2'
+  reviews: '183'
+  latitude: 22.670214289518686
+  longitude: 120.33086821893743
+  description: |-
+    聚餐約會包場 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鹽埕區四維路1段96號
+    評價: 4.2星 (183則評論)
+- name: 台北創始店
+  city: 台北市
+  district: 文山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區中正路2段13號
+  rating: '4.6'
+  reviews: '62'
+  latitude: 25.079639652361678
+  longitude: 121.51753946093953
+  description: |-
+    台北創始店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區中正路2段13號
+    評價: 4.6星 (62則評論)
+- name: 國父紀念美食
+  city: 新北市
+  district: 樹林區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市樹林區中山路5段114號
+  rating: '4.9'
+  reviews: '55'
+  latitude: 25.047057570170704
+  longitude: 121.50969613487942
+  description: |-
+    國父紀念美食 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市樹林區中山路5段114號
+    評價: 4.9星 (55則評論)
+- name: 台中概念店
+  city: 桃園市
+  district: 八德區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市八德區民族路2段198號
+  rating: '4.7'
+  reviews: '108'
+  latitude: 24.953465175124446
+  longitude: 121.31670654278562
+  description: |-
+    台中概念店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市八德區民族路2段198號
+    評價: 4.7星 (108則評論)
+- name: 號賣丸就好日式
+  city: 台中市
+  district: 豐原區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市豐原區建國路1段46號
+  rating: '4.4'
+  reviews: '109'
+  latitude: 24.15932881548956
+  longitude: 120.65000849239661
+  description: |-
+    號賣丸就好日式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市豐原區建國路1段46號
+    評價: 4.4星 (109則評論)
+- name: 賣丸就好日式
+  city: 高雄市
+  district: 旗津區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市旗津區復興路5段2號
+  rating: '4.4'
+  reviews: '153'
+  latitude: 22.664140846137734
+  longitude: 120.30558816016371
+  description: |-
+    賣丸就好日式 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市旗津區復興路5段2號
+    評價: 4.4星 (153則評論)
+- name: 大肚店
+  city: 台北市
+  district: 北投區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市北投區和平路4段50號
+  rating: '4.7'
+  reviews: '77'
+  latitude: 24.99230447001178
+  longitude: 121.51769695052721
+  description: |-
+    大肚店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市北投區和平路4段50號
+    評價: 4.7星 (77則評論)
+- name: 烏日店
+  city: 新北市
+  district: 瑞芳區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市瑞芳區忠孝東路3段7號
+  rating: '4.9'
+  reviews: '244'
+  latitude: 25.023782809175593
+  longitude: 121.46242182329549
+  description: |-
+    烏日店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市瑞芳區忠孝東路3段7號
+    評價: 4.9星 (244則評論)
+- name: 鄰居回報店
+  city: 桃園市
+  district: 桃園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市桃園區仁愛路2段129號
+  rating: '4.6'
+  reviews: '56'
+  latitude: 24.962242352328087
+  longitude: 121.28264779967239
+  description: |-
+    鄰居回報店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市桃園區仁愛路2段129號
+    評價: 4.6星 (56則評論)
+- name: 店內店
+  city: 台中市
+  district: 北區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市北區和平東路2段113號
+  rating: '4.1'
+  reviews: '195'
+  latitude: 24.131378455497543
+  longitude: 120.7128296841179
+  description: |-
+    店內店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市北區和平東路2段113號
+    評價: 4.1星 (195則評論)
+- name: 這整間店
+  city: 高雄市
+  district: 鼓山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市鼓山區辛亥路5段118號
+  rating: '4.6'
+  reviews: '69'
+  latitude: 22.675167854821378
+  longitude: 120.32129353738486
+  description: |-
+    這整間店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市鼓山區辛亥路5段118號
+    評價: 4.6星 (69則評論)
+- name: 的噁莮店
+  city: 台北市
+  district: 松山區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區基隆路5段6號
+  rating: '4.9'
+  reviews: '51'
+  latitude: 24.98333242632413
+  longitude: 121.54143158077824
+  description: |-
+    的噁莮店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區基隆路5段6號
+    評價: 4.9星 (51則評論)
+- name: 七期潮洋公園加盟店
+  city: 新北市
+  district: 新莊區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市新莊區松江路3段197號
+  rating: '4.2'
+  reviews: '199'
+  latitude: 25.03795799201977
+  longitude: 121.48995389682912
+  description: |-
+    七期潮洋公園加盟店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市新莊區松江路3段197號
+    評價: 4.2星 (199則評論)
+- name: 客人回報店
+  city: 桃園市
+  district: 大園區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市大園區建國北路4段19號
+  rating: '4.8'
+  reviews: '90'
+  latitude: 25.02655831067271
+  longitude: 121.25206479891763
+  description: |-
+    客人回報店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市大園區建國北路4段19號
+    評價: 4.8星 (90則評論)
+- name: 專業國術館
+  city: 台中市
+  district: 南屯區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市南屯區信義路1段188號
+  rating: '4.8'
+  reviews: '158'
+  latitude: 24.168056014464533
+  longitude: 120.66936753607631
+  description: |-
+    專業國術館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市南屯區信義路1段188號
+    評價: 4.8星 (158則評論)
+- name: 養身館
+  city: 高雄市
+  district: 苓雅區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 高雄市苓雅區敦化南路4段188號
+  rating: '4.8'
+  reviews: '226'
+  latitude: 22.64830068251381
+  longitude: 120.31724086356884
+  description: |-
+    養身館 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 高雄市苓雅區敦化南路4段188號
+    評價: 4.8星 (226則評論)
+- name: 號和正農作新市店
+  city: 台北市
+  district: 大同區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市大同區南京東路4段32號
+  rating: '4.4'
+  reviews: '203'
+  latitude: 25.005370394105412
+  longitude: 121.54722111088977
+  description: |-
+    號和正農作新市店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大同區南京東路4段32號
+    評價: 4.4星 (203則評論)
+- name: 和正農作新市店
+  city: 新北市
+  district: 淡水區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 新北市淡水區民生東路2段137號
+  rating: '4.4'
+  reviews: '217'
+  latitude: 24.963570337279556
+  longitude: 121.43206007229706
+  description: |-
+    和正農作新市店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 新北市淡水區民生東路2段137號
+    評價: 4.4星 (217則評論)
+- name: 台中市政二店
+  city: 桃園市
+  district: 新屋區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 桃園市新屋區成功路3段103號
+  rating: '4.7'
+  reviews: '105'
+  latitude: 25.027235750058203
+  longitude: 121.33431167105793
+  description: |-
+    台中市政二店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 桃園市新屋區成功路3段103號
+    評價: 4.7星 (105則評論)
+- name: 台中逢甲店
+  city: 台中市
+  district: 清水區
+  category: 草系店家
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台中市清水區羅斯福路3段14號
+  rating: '4.1'
+  reviews: '105'
+  latitude: 24.143912577406436
+  longitude: 120.66933646869083
+  description: |-
+    台中逢甲店 - 草系店家
+    備註: 草系風格店家，提供優質服務
+    地址: 台中市清水區羅斯福路3段14號
+    評價: 4.1星 (105則評論)
