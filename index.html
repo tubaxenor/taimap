@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>台灣地圖 - 台派店家</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="map"></div>
+    <div id="info">
+        <div id="header">
+            <h1>台灣地圖</h1>
+            <div id="category-switcher">
+                <button class="active" data-category="台派">台派</button>
+                <button data-category="草">草</button>
+                <button data-category="紅統">紅統</button>
+            </div>
+        </div>
+        
+        <div id="search-container">
+            <input type="text" id="search-input" placeholder="搜尋店家名稱、類別或地址...">
+            <button id="search-btn">搜尋</button>
+        </div>
+        
+        <div id="stats">
+            <p id="location-count">載入中...</p>
+        </div>
+        
+        <div id="location-details">
+            <h2>選擇一個地點</h2>
+            <p>點擊地圖上的標記查看詳細資訊</p>
+        </div>
+        
+        <div id="location-list">
+            <h3>地點列表</h3>
+            <div id="list-container"></div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "name": "taimap",
+  "version": "1.0.0",
+  "description": "台灣地圖 - 台派店家互動式地圖",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "update-data": "node process_data.js",
+    "setup": "./setup_github.sh"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "papaparse": "^5.5.3"
+  },
+  "keywords": ["taiwan", "map", "台派", "店家", "地圖"],
+  "author": "",
+  "license": "MIT"
+}
