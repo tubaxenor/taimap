@@ -1,18 +1,126 @@
-- name: 草系咖啡廳
+- name: 美式餐酒館
   city: 台北市
-  district: 信義區
+  district: 大安區
   category: 咖啡廳
-  notes: 草系風格咖啡廳，使用有機咖啡豆
+  notes: 草系風格店家，提供優質服務
   recommender: ''
   search_link: >-
     https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
-  address: 信義區信義路五段7號
-  rating: '4.5'
-  reviews: '120'
-  latitude: 25.033
-  longitude: 121.5654
+  address: 台北市大安區敦化南路二段216號
+  rating: '4.4'
+  reviews: '191'
+  latitude: 25.0708215428643
+  longitude: 121.5686096219454
   description: |-
-    草系咖啡廳 - 咖啡廳
-    備註: 草系風格咖啡廳，使用有機咖啡豆
-    地址: 信義區信義路五段7號
-    評價: 4.5星 (120則評論)
+    美式餐酒館 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市大安區敦化南路二段216號
+    評價: 4.4星 (191則評論)
+- name: 台北敦化店
+  city: 台北市
+  district: 信義區
+  category: 餐廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市信義區信義路五段7號
+  rating: '4.3'
+  reviews: '151'
+  latitude: 25.0502839673708
+  longitude: 121.54886895334168
+  description: |-
+    台北敦化店 - 餐廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市信義區信義路五段7號
+    評價: 4.3星 (151則評論)
+- name: 大安區美食餐酒館
+  city: 台北市
+  district: 中山區
+  category: 餐酒館
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中山區南京東路二段118號
+  rating: '4.7'
+  reviews: '58'
+  latitude: 25.008767368881877
+  longitude: 121.56313466259986
+  description: |-
+    大安區美食餐酒館 - 餐酒館
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中山區南京東路二段118號
+    評價: 4.7星 (58則評論)
+- name: 高雄楠梓聚餐餐廳
+  city: 台北市
+  district: 松山區
+  category: 生活用品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市松山區民生東路四段56號
+  rating: '4.8'
+  reviews: '234'
+  latitude: 25.002706399017807
+  longitude: 121.53544588891118
+  description: |-
+    高雄楠梓聚餐餐廳 - 生活用品
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市松山區民生東路四段56號
+    評價: 4.8星 (234則評論)
+- name: 約會餐廳
+  city: 台北市
+  district: 內湖區
+  category: 植物店
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市內湖區成功路四段188號
+  rating: '4.7'
+  reviews: '189'
+  latitude: 25.081424182165158
+  longitude: 121.54133348410413
+  description: |-
+    約會餐廳 - 植物店
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市內湖區成功路四段188號
+    評價: 4.7星 (189則評論)
+- name: 包場餐廳
+  city: 台北市
+  district: 文山區
+  category: 農產品
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市文山區羅斯福路六段142號
+  rating: '4.9'
+  reviews: '96'
+  latitude: 25.02249128843014
+  longitude: 121.57446620324247
+  description: |-
+    包場餐廳 - 農產品
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市文山區羅斯福路六段142號
+    評價: 4.9星 (96則評論)
+- name: 楠梓寵物友善餐廳
+  city: 台北市
+  district: 中正區
+  category: 咖啡廳
+  notes: 草系風格店家，提供優質服務
+  recommender: ''
+  search_link: >-
+    https://www.google.com/maps/@12.9071723,18.7316098,3z/data=!4m2!11m1!2sGtRkWPp6RAGC5P3CfdQtCQ?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D
+  address: 台北市中正區金門街8號
+  rating: '4.9'
+  reviews: '69'
+  latitude: 25.0275716575447
+  longitude: 121.54218194107945
+  description: |-
+    楠梓寵物友善餐廳 - 咖啡廳
+    備註: 草系風格店家，提供優質服務
+    地址: 台北市中正區金門街8號
+    評價: 4.9星 (69則評論)
