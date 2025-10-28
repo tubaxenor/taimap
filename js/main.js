@@ -50,12 +50,9 @@ function performSearch() {
     }
     
     const filteredData = currentData.filter(location => 
-        location.name.toLowerCase().includes(searchTerm) ||
-        location.category.toLowerCase().includes(searchTerm) ||
-        location.address.toLowerCase().includes(searchTerm) ||
-        location.city.toLowerCase().includes(searchTerm) ||
-        location.district.toLowerCase().includes(searchTerm) ||
-        (location.notes && location.notes.toLowerCase().includes(searchTerm))
+        location.標題.toLowerCase().includes(searchTerm) ||
+        location.詳細地址.toLowerCase().includes(searchTerm) ||
+        (location.備註 && location.備註.toLowerCase().includes(searchTerm))
     );
     
     displayFilteredLocations(filteredData);
@@ -72,8 +69,8 @@ function displayFilteredLocations(data) {
     
     // Create new markers
     data.forEach(location => {
-        if (location.latitude && location.longitude) {
-            const marker = L.marker([location.latitude, location.longitude]).addTo(map);
+        if (location.緯度 && location.經度) {
+            const marker = L.marker([location.緯度, location.經度]).addTo(map);
             marker.on('click', () => showLocationDetails(location));
             markers.push(marker);
         }
@@ -93,13 +90,13 @@ function updateLocationList(data) {
         const item = document.createElement('div');
         item.className = 'location-item';
         item.innerHTML = `
-            <h4>${location.name}</h4>
-            <p>${location.category} - ${location.city} ${location.district}</p>
-            <p>${location.rating}星 (${location.reviews}則評論)</p>
+            <h4>${location.標題}</h4>
+            <p>${location.詳細地址}</p>
+            <p>${location.備註 || '無備註'}</p>
         `;
         item.addEventListener('click', () => {
             showLocationDetails(location);
-            map.setView([location.latitude, location.longitude], 15);
+            map.setView([location.緯度, location.經度], 15);
         });
         listContainer.appendChild(item);
     });
@@ -113,8 +110,13 @@ function updateLocationList(data) {
 }
 
 function showLocationDetails(location) {
-    locationDetails.querySelector('h2').textContent = location.name;
-    locationDetails.querySelector('p').textContent = location.description;
+    locationDetails.querySelector('h2').textContent = location.標題;
+    locationDetails.querySelector('p').innerHTML = `
+        <strong>地址:</strong> ${location.詳細地址}<br>
+        <strong>備註:</strong> ${location.備註 || '無'}<br>
+        <strong>座標:</strong> ${location.緯度}, ${location.經度}<br>
+        ${location.搜尋連結 ? `<strong>連結:</strong> <a href="${location.搜尋連結}" target="_blank">Google Maps</a>` : ''}
+    `;
 }
 
 async function loadCategory(category) {
@@ -224,14 +226,14 @@ function findNearestLocations() {
 
     // Calculate distances for all locations
     const locationsWithDistance = currentData.map(location => {
-        if (!location.latitude || !location.longitude || 
-            isNaN(location.latitude) || isNaN(location.longitude)) {
+        if (!location.緯度 || !location.經度 || 
+            isNaN(location.緯度) || isNaN(location.經度)) {
             return null;
         }
         
         const distance = calculateDistance(
             userLocation.lat, userLocation.lng,
-            parseFloat(location.latitude), parseFloat(location.longitude)
+            parseFloat(location.緯度), parseFloat(location.經度)
         );
         
         return {
@@ -295,16 +297,15 @@ function displayNearestLocations(nearestLocations) {
 
     // Add nearest location markers
     nearestLocations.forEach((location, index) => {
-        const marker = L.marker([location.latitude, location.longitude]).addTo(map);
+        const marker = L.marker([location.緯度, location.經度]).addTo(map);
         
         // Add popup with distance
         marker.bindPopup(`
             <div style="min-width: 200px;">
-                <h3 style="margin: 0 0 10px 0; color: #2c3e50;">${location.name}</h3>
+                <h3 style="margin: 0 0 10px 0; color: #2c3e50;">${location.標題}</h3>
                 <p style="margin: 5px 0; color: #e74c3c; font-weight: bold;">📍 距離: ${location.distance.toFixed(2)} 公里</p>
-                <p style="margin: 5px 0;"><strong>類別:</strong> ${location.category}</p>
-                <p style="margin: 5px 0;"><strong>地址:</strong> ${location.address}</p>
-                <p style="margin: 5px 0;"><strong>評價:</strong> ${location.rating}星 (${location.reviews}則評論)</p>
+                <p style="margin: 5px 0;"><strong>地址:</strong> ${location.詳細地址}</p>
+                <p style="margin: 5px 0;"><strong>備註:</strong> ${location.備註 || '無'}</p>
             </div>
         `);
         
@@ -332,14 +333,14 @@ function updateNearestLocationList(nearestLocations) {
         const item = document.createElement('div');
         item.className = 'location-item nearest-location';
         item.innerHTML = `
-            <h4>${index + 1}. ${location.name}</h4>
+            <h4>${index + 1}. ${location.標題}</h4>
             <p><strong>距離:</strong> ${location.distance.toFixed(2)} 公里</p>
-            <p>${location.category} - ${location.city} ${location.district}</p>
-            <p>${location.rating}星 (${location.reviews}則評論)</p>
+            <p>${location.詳細地址}</p>
+            <p>${location.備註 || '無備註'}</p>
         `;
         item.addEventListener('click', () => {
             showLocationDetails(location);
-            map.setView([location.latitude, location.longitude], 15);
+            map.setView([location.緯度, location.經度], 15);
         });
         listContainer.appendChild(item);
     });

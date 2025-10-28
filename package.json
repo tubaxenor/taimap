@@ -9,10 +9,17 @@
     "setup": "./setup_github.sh"
   },
   "dependencies": {
+    "csv-parser": "^3.2.0",
     "js-yaml": "^4.1.0",
     "papaparse": "^5.5.3"
   },
-  "keywords": ["taiwan", "map", "台派", "店家", "地圖"],
+  "keywords": [
+    "taiwan",
+    "map",
+    "台派",
+    "店家",
+    "地圖"
+  ],
   "author": "",
   "license": "MIT"
 }
