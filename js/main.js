@@ -59,22 +59,39 @@ function performSearch() {
 }
 
 function displayAllLocations() {
+    console.log('displayAllLocations called');
+    console.log('currentData:', currentData);
+    console.log('currentData length:', currentData ? currentData.length : 'null/undefined');
     displayFilteredLocations(currentData);
 }
 
 function displayFilteredLocations(data) {
+    console.log('displayFilteredLocations called with data:', data);
+    console.log('Data length:', data ? data.length : 'null/undefined');
+    
+    if (!data || !Array.isArray(data)) {
+        console.error('Invalid data in displayFilteredLocations:', data);
+        return;
+    }
+    
     // Clear existing markers
     markers.forEach(marker => map.removeLayer(marker));
     markers = [];
     
     // Create new markers
-    data.forEach(location => {
+    let validMarkers = 0;
+    data.forEach((location, index) => {
         if (location.緯度 && location.經度) {
             const marker = L.marker([location.緯度, location.經度]).addTo(map);
             marker.on('click', () => showLocationDetails(location));
             markers.push(marker);
+            validMarkers++;
+        } else {
+            console.log(`Invalid coordinates for location ${index}:`, location);
         }
     });
+    
+    console.log(`Created ${validMarkers} markers out of ${data.length} locations`);
     
     // Update list
     updateLocationList(data);
@@ -121,12 +138,24 @@ function showLocationDetails(location) {
 
 async function loadCategory(category) {
     try {
+        console.log('Loading category:', category);
         const response = await fetch(`data/${category}.yml`);
         if (!response.ok) {
             throw new Error(`Failed to load data for category: ${category}`);
         }
         const yamlText = await response.text();
+        console.log('YAML text length:', yamlText.length);
+        console.log('First 200 chars:', yamlText.substring(0, 200));
+        
         const data = jsyaml.load(yamlText);
+        console.log('Parsed data:', data);
+        console.log('Data type:', typeof data);
+        console.log('Is array:', Array.isArray(data));
+        console.log('Data length:', data ? data.length : 'null/undefined');
+        
+        if (!data || !Array.isArray(data)) {
+            throw new Error('Invalid data format: expected array');
+        }
         
         currentData = data;
         
@@ -137,9 +166,9 @@ async function loadCategory(category) {
         displayAllLocations();
         
     } catch (error) {
-        console.error(error);
+        console.error('Error loading category:', error);
         locationDetails.querySelector('h2').textContent = '載入錯誤';
-        locationDetails.querySelector('p').textContent = `無法載入 ${category} 類別的資料。`;
+        locationDetails.querySelector('p').textContent = `無法載入 ${category} 類別的資料。錯誤: ${error.message}`;
         locationCount.textContent = '載入失敗';
     }
 }
