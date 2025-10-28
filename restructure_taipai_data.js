@@ -19,7 +19,7 @@ function processTaipaiData() {
                     const entry = {
                         標題: row['標題'].trim(),
                         搜尋連結: row['搜尋連結'] ? row['搜尋連結'].trim() : '',
-                        詳細地址: row['詳細地址'] ? row['詳細地址'].trim() : '',
+                        詳細地址: row['原始地址'] ? row['原始地址'].trim() : '',
                         備註: row['備註'] ? row['備註'].trim() : '',
                         緯度: row['緯度'] ? parseFloat(row['緯度']) : null,
                         經度: row['經度'] ? parseFloat(row['經度']) : null
